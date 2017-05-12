@@ -1,0 +1,52 @@
+@media screen and (min-width: 320px) {
+    .navbar-default {
+        min-height: 100px;
+        background-color: #f19333;
+        border: none;
+    }
+
+    .navbar-logo {
+        margin-top: 15px;
+        max-height: 30px;
+    }
+
+    .navbar-item {
+        margin-top: 20px;
+        color: #fff;
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .navbar-default {
+        min-height: 100px;
+        background-color: #f19333;
+        border: none;
+    }
+
+    .navbar-item {
+        margin-top: 20px;
+        color: #fff;
+    }
+
+    .navbar-logo {
+        max-height: 75px;
+        padding: 10px 0;
+    }
+
+    .navbar-item {
+        margin-top: 20px;
+        color: #fff;
+        font-size: 20px;
+    }
+
+    .navbar-brand {
+        padding: 0;
+    }
+}
+
+.collapsed-navbar-styling {
+    background-color: #fff;
+    border: none;
+    margin: 25px;
+}

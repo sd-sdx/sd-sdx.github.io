@@ -1,0 +1,108 @@
+@import url('//fonts.googleapis.com/css?family=Archivo+Black');
+
+@media (min-width: 320px) {
+    .content-section {
+        padding: 50px 25px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .content-section {
+        padding: 50px 150px;
+    }
+}
+
+body {
+    letter-spacing: 1px;
+    font-family: 'Archivo Black';
+}
+
+p {
+    font-family: 'Helvetica-Light', 'Helvetica', sans-serif;
+    line-height: 150%;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100;
+    margin: 15px;
+    font-size: 20px;
+}
+
+li {
+    color: #f19333;
+    font-size: 20px;
+}
+
+i {
+    color: #fff;
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    color: #fff;
+}
+
+h3 {
+    font-size: 32.5px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #f19333;
+    margin: 25px 0 20px;
+}
+
+h4 {
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h5 {
+    font-size: 30px;
+    margin: 25px 50px 20px;
+}
+
+h6 {
+    font-size: 30px;
+    color: #000;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.btn {
+    background-color: #f19333;
+    border: none;
+    -moz-border-radius: 3;
+    border-radius: 3;
+    margin-top: 35px;
+}
+
+.btn:hover {
+    background-color: #f4ac63;
+}
+
+.b-styling {
+    font-weight: bold;
+    color: #f19333;
+    font-style: oblique;
+    margin-bottom: 50px;
+}
+
+.flex-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
