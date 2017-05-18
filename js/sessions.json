@@ -48,6 +48,48 @@
       "Proposal": "Your self-service lives or dies on whether your customers are engaging with your content. When your customers land on your support docs, they should immediately sense that you know where they're coming from and what they need. One of the best ways to create this connection is to dabble in a little professional world-building. By fabricating a small cast of fictional customers to star in your user docs, you can deliver much more powerful self-service experiences. \n\nUser personas have been stock-in-trade for growth teams and information architects for ages. But for self-service, we take it further. Fleshing out those customer personas into individual characters, whose struggles and successes we can use to illustrate our docs, delivers a ton of value: \n- Personal anecdotes and examples, even if they're made up, are way more likely to engage and inform your readers than faceless feature descriptions or abstract use case explanations.\n- Writing about fictional representations of your customers means you're constantly thinking about your actual customers, and what they need from your docs/products/services. \n- Tailoring your docs for your core customers also lets you align your self-service with your company's broader messaging, creating a more seamless customer experience. \n\nThis workshop will guide you, hands-on, through the process of developing a cast of fictional customers and the world they inhabit. We'll also look at specific examples of how to use these personas to make your support docs more engaging, more informative, and ultimately more successful.\n",
       "Company": "Kayako",
       "Type": "Workshop"
+    },
+    {
+      "Name": "Emily Triplett Lentz",
+      "Title": "The ROI of Saying Thank You",
+      "Proposal": "We all know sending handwritten thank-you notes to customers is a lovely thing to do, but what kind of impact does it actually have? Is it measurable?\n \n I've started an experiment at Help Scout where I send handwritten notes to a) people who have signed up for free trials and b) customers who have converted from trial to paid, to see whether and how much this impacts conversions and churn rates.\n \n I've written about the ROI of thanking your customers here: https://www.helpscout.net/blog/roi-of-thanking-customers/\n \n ... and chatted with the Support Ops folks about it here: http://supportops.co/135-the-business-value-of-thank-you/\n \n ... and Simon mentioned there's still some interest in the topic, so I guess people aren't sick of hearing me harp on it yet?",
+      "Company": "Help Scout",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Martin Kõiva",
+      "Title": "\"Support 100k+ users in in 150 countries, in 2 languages, from 5 locations? Sure, how hard can it be!\"",
+      "Proposal": "Pipedrive has grown very rapidly as a company and so has our support. Support crew has grown from 7 to 70 (estimation by the time of the event), 2k tickets three years ago to 17k tickets monthly, 40 people to 300 people etc etc.\n \n I would tell the story of scaling a global support team in many locations, while managing other change (of tools, support strategy, supported languages, new offices) at the same time. It's been a hell of a ride.\n \n Besides the \"wow what a story\" section, an important part would be how we started look for ways to make the quality better, what the internal QA program looks like and why it's crucial for long term success.",
+      "Company": "Pipedrive",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Valentina Thoerner",
+      "Title": "Customer Feedback: Are you really listening?",
+      "Proposal": "What do you do with those comments your customers leave after a successful (or not so successful) support interaction. Who reads (or makes an effort to ignore) the feedback given by happy and grumpy customers. How can you make sure these comments don’t just get lost on individual support staff inboxes - and instead turn them into valuable sources of insight for support and product development.\n Learn how to leverage qualitative research to enrich the quantitative data (CSAT, ticket touches, time to resolution) you already use: I’ll teach you how to do it, the time and resources you need (less than you’d think). And I'll share the results of our own experiment at WooCommerce with this approach.",
+      "Company": "WooCommerce",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Aaron Thompson",
+      "Title": "Making Premium Support, Premium",
+      "Proposal": "Years of experience in Premium Support program development, sales, execution & scaling at Jive software - combined with my naturally hilarious public speaking delivery will keep EVERYONE on their toes. Individual contributors will love my anecdotes from the front lines while leadership will covet the immense levels of experience & insights from the strategic level. All while being SO funny. I mean, side splitting funny. I'm hilarious.",
+      "Company": "4-Tell",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Sukhpreet Anand",
+      "Title": "How to reduce churn and make your customers loyal",
+      "Proposal": "Many of the organizations want to reduce churn and want their customers’ loyalty. Is this something which requires a rocket science study? No. We have dealt with so many customers who say, they want to leave Kayako, it isn’t helpful for them anymore. However, after talking to them, understanding them, we can actually retain them. It just needs to know more about their workflow, their experiences and their expectations. Many a times, you need to act like a teacher, because its you who know much more about product rather than them.\n On another note, using right upselling techniques, you can turn your customers to be loyal. Customers always look up for effortless experience, which is only possible, when you think likewise and make their journey smooth.",
+      "Company": "Kayako",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Sharon Moorhouse",
+      "Title": "How to say NO to customers.",
+      "Proposal": "Delivering truly delightful and memorable support to customers is great. There are endless numbers of blog posts, tips, tricks and talks on how to make your customers happy. There aren’t however, almost as many resources related to managing and supporting your customers when they’re NOT happy. Difficult conversations with unhappy customers exist - we wish they didn’t but they do. How do you say ‘NO’ and say it well? When you’re on the front line, representing your company’s product decisions, how do you deliver negative news successfully? Is it even possible to remain friendly and personal when saying no? When you’re scaling a team, how should you approach training new hires on this essential skill?",
+      "Company": "Intercom",
+      "Type": "Talk"
     }
   ],
   "Self Skills": [
@@ -71,6 +113,34 @@
       "Proposal": "I believe that the key to success in a support career is being resilient, and that how you get there is first by being vulnerable. I want to run a workshop that provides my history of building resiliency mixed with a few interactive exercises that enable participants to open up. They will encounter some challenging questions and prompts, work through them in group settings, and have a chance to reflect on how it made them feel. \n\nBy asking participants to face tough questions, they will learn their about physical and emotional triggers. Upon recognizing them, they'll be able to start developing ways to control their reaction, and be on the road to building resiliency. \n\nA few sample prompts to cover in a small group: \n- For 60 seconds, continually start and finish this sentence... \"I work most effectively when....\". This prompt helps people get uncomfortable and search inside themselves\n\n- Talking about Observations, Thoughts, Feelings, Wants related to a recent work experience. This helps you understand the difference between a thought and a feeling, with a framework on how to clearly express how you encounter a situation. \n\n- Break into groups of 3 and describe a work challenge that you're facing. Two people listen, provide feedback, coach, and help the person come up with a next-step for the situation to move towards a resolution.",
       "Company": "DigitalOcean",
       "Type": "Workshop"
+    },
+    {
+      "Name": "Nicole St. Germain",
+      "Title": "Move Up with Masterminds!",
+      "Proposal": "I will share why a mastermind can be an important step in growing a support career. I will outline the necessary ingredients of a successful mastermind and demystify any terms or misconceptions of masterminds. I will teach the exact steps to create an effective mastermind that benefits every group member, from achieving specific career goals to building valuable leadership and support-specific skills. I will ensure that every attendee leaves knowing what a mastermind is, how to get started, and how to make it a valuable piece of their career development!",
+      "Company": "ConvertKit",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Nicole Fink",
+      "Title": "Modern Mindfulness",
+      "Proposal": "You don't have to be a spiritual guru to bring mindfulness practices into your interactions. It doesn't matter if you're on the front line, or if the buck stops with you. In this talk, you'll learn some simple tricks from the field of Non-Violent Communication to learn when you're being triggered and what you can do to curb it.",
+      "Company": "Airbnb and Nicole Fink Coaching",
+      "Type": "Talk"
+    },
+    {
+      "Name": "David Klint",
+      "Title": "dklint@illuminateed.net",
+      "Proposal": "In my previous career as an EMT and firefighter, I handled really stressful and intense situations. From massive blood loss, to compound fractures, my actions often meant the difference between life and death for my patients.\n \n When I switched careers into customer support, I realized that many of the techniques I'd honed in my 5 years working in emergency medical services applied to my new day-to-day triaging of phone calls and tickets. While no one is likely to die if I answer a ticket incorrectly, being able to keep a clear head in a stressful situation is super helpful. In this session, I'll share the tools I learned in the back of an ambulance to help you thrive in your job while in a stressful environment.",
+      "Company": "Illuminate Education",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Marlene Summers",
+      "Title": "Developing Confident Customer Presence",
+      "Proposal": "In support organizations, we have good days and bad days. How do you represent yourself to customers and executives? From developing an elevator pitch of about your company to a description of yourself and your life, my presentation covers how to maintain an executive presence under stress with stories of body language, situational awareness and developing your own personal action plan.",
+      "Company": "Zuora",
+      "Type": "Talk"
     }
   ],
   "Manager Skills": [
@@ -115,6 +185,62 @@
       "Proposal": "In this session, we will talk about about the way we can motivate our teams through coaching. We’ll discuss some basic coaching techniques and ways to blend pure coaching with other management approaches (advising, directing, mentoring, etc.). Lastly, we’ll begin to talk about the power of coaching questions to establish rapport and empower our direct reports in problem solving.",
       "Company": "MailChimp",
       "Type": "Workshop"
+    },
+    {
+      "Name": "Zandy Ring",
+      "Title": "Breaking up the Band",
+      "Proposal": "My team had grown to 18 Happiness Engineers, ranging from New Orleans, LA, USA, to Davao City, Philippines. As Happiness at Automattic grew, we needed a better way to scale our teams. The team was the largest Happiness team, and team members would have to attend team chats during dinner or in the middle of their night - we were unwieldy, unable to effectively communicate, and my ability to support each Happiness Engineer was diminishing.\n \n In April of last year, we began the process of splitting the single, large Happiness team into three, nimble, geographically-based teams. Along the way, we grew three new Happiness Leads, and therefore, our lead base.\n \n I will explain how we did it, why our plan works, and how you can make it work for you.",
+      "Company": "Automattic",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Kasey Jones (and Dave Shanley)",
+      "Title": "Data Driven Leadership: Using Little Data to Scale Big",
+      "Proposal": "Growth is hard. There’s no way around it. You need to stay focused and productive on the task(s) at hand, but with an eye toward the future. And it gets harder the more elements you add into the mix - additional team members, changes in the products you support, faster growth. The pressure of incorporating a data analytics practice can feel like adding fuel to the fire, but in this talk will show you how focusing on the metrics that matter most can help quiet the noise, get you and your team focused, and get you ready for whatever’s next for your department.",
+      "Company": "Notion",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Jon Coon",
+      "Title": "2000 miles apart: Leading & Managing remotely",
+      "Proposal": "You will leave this talk with a framework to ensure your remote team is set up to be successful and scale.\n \n - Managing a remote team\n - Weekly meetings\n - Team leads / Functional leads\n - Bi-annual reviews\n - Leaderboards\n - Ticket review\n - How people are evaluated\n - Core expectations doc",
+      "Company": "Homebase",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Kaylin Bailey",
+      "Title": "Hiring doesn't have to suck",
+      "Proposal": "Support is one of the most perplexing roles to hire for. In most other positions, there is a clear black and white list of skills that make someone good at their job. In support, it is shades of gray. A wide range of different experience and qualities can make for a good support hire, but how do you know if someone has what it takes?\n \n In this session we'll talk about how to setup a job posting that gets the right applicants, create an interview that is fair and objective, and build out a tracking system to help you identify which applicants are right for your team. By the end of this session you will have the foundation of a document that will help you ask the right questions, and find the right people for your support team.",
+      "Company": "Illuminate Education",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Brittany Bishop",
+      "Title": "Managing like a support agent",
+      "Proposal": "Being a manager is crazy hard! Most new support managers are promoted to the role because they are excelling at their own career in support, but we have little to no experience managing a team. We've all got awesome customer support skills like empathy, problem solving, and improvisation skills, but how do we teach others to use those skills and how do we use those skills in our new role? This talk is about how to use your ninja customer support skills and leverage them as management tools. Highlights include turn your no's into a yes, and using your listening skills to empower your team to solve problems on their own. I'll use some of my own experiences on two different teams to highlight how I've re-wired my support skills to work for me as a manager and share stories about a few of my manager friends as well.",
+      "Company": "Animoto",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Mahesh Ram",
+      "Title": "Avoiding Ticket Overload",
+      "Proposal": "Support superstars want to quickly provide accurate answers to customers so an efficient self-service strategy is paramount. But how do you know if self-service is working well for your customers? What KPIs matter most? Solvvy’s CEO Mahesh Ram will teach the data secrets that identify weak points in your self-service support flow and what to do about it.",
+      "Company": "Solvvy",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Sabrina Gordon",
+      "Title": "How to successfully open a remote customer support office",
+      "Proposal": "There’s tons of bad press around companies moving to cheaper locations and opening up call centers that are disconnected from the company and don’t offer employees any career growth. It’s a real challenge to try and open a new office that feels like part of the same company from scratch, without the founders or any other functional teams around. If you start off wrong and quickly build on top of that, it’s almost impossible to bounce back. How do you define what your company culture is and make sure it exists in the new office? How do you make sure people are connected to your other office(s), and that people in your other office(s) don’t forget about you? How do you offer people in your new customer support only office career growth and opportunity?",
+      "Company": "Intercom",
+      "Type": "Talk"
+    },
+    {
+      "Name": "Kristin Aardsma",
+      "Title": "Adding Humanity by Removing Numbers",
+      "Proposal": "When a perfect storm of turnover and busy season hit Basecamp's support team in 2016, we began building bad habits based mostly on numbers and statistics that threatened to destroy our morale. Using methodical and subtle cultural shifts centered around eliminating stats, we were able to fix some of the bad habits we created for ourselves. One of the essential changes was creating dedicated time away from customer contact, which we dubbed Research & Innovation (R&I for short).\n \n In order to make folks feel comfortable stepping away from the queue to spend their R&I time reading/writing about support, working on side projects, or learning a new skill, we first had to eliminate the obsession we had with numbers: Inbox Zero, % of last 50 customer ratings per employee, response time (in minutes), number of emails sent, number of new conversations touched, etc.\n \n It wasn’t easy.\n \n With Justin Seymour, Head of Customer Support at Help Scout, I discussed how both our teams struggle with leaving the queue to take a break, something we talked about as integrity creating unintended consequences: both teams consist of very smart, very loyal, very empathic hard-workers who are dedicated to their company and customers. When people have such a high level of integrity, it's hard for them to pry themselves away from the customers who need help. Combine that with an obsession with numbers and you have a stressed-out team that hasn’t taken care of itself. If you need to hire to alleviate that stress, be careful not to introduce that stress to your new hires — some serpents eat their tails.\n \n By slowly removing some innocuous-seeming yet truly dangerous metrics and shifting the focus from the email queue to the single customer in front of you, we were able to make folks comfortable enough to loosen their self-imposed leashes and work on research and innovation. A day’s work was no longer boiled down to a series of numbers, but to conversation comprehension: with customers, each other, and other support teams.",
+      "Company": "Basecamp",
+      "Type": "Talk"
     }
   ],
   "Technical Skills": [
