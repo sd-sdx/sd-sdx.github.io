@@ -19,7 +19,7 @@ require([
     $("#technical-skills")
         .append(template( {session: content["Technical Skills"]}));
     $("#self-skills")
-        .append(template( {session: content["Customers Support Skills"]}));
+        .append(template( {session: content["Self Skills"]}));
     var ceil = Math.ceil;
 
     Object.defineProperty(Array.prototype, 'chunk', {value: function(n) {
