@@ -1,7 +1,12 @@
 {{#session}}
-<div class="flex-item-speakers">
-    <p class="speaker-name"> {{name}}</p>
-    <div class="company-caption"> {{company}}</div>
-    <p class="session-title"> {{title}}</p>
-</div>
+    <tr>
+        <td>
+            <div class="session-title">{{Title}}</div>
+            <div>{{Proposal}}</div>
+        </td>
+        <td>
+            <div class="session-presenter"> {{Name}}</div>
+            <div class="session-company"> {{Company}}</div>
+        </td>
+    </tr>
 {{/session}}

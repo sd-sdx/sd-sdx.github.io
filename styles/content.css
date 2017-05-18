@@ -1,3 +1,17 @@
+.navbar-default {
+    min-height: 80px !important;
+}
+
+.navbar-logo {
+    max-height: 60px !important;
+    margin-top: 10px !important;
+}
+
+#company-list {
+    width: 100%;
+    color: white;
+}
+
 .dark {
     background-color: #000;
     color: #fff;
@@ -7,6 +21,7 @@
     background-color: #fff;
     color: #000;
 }
+
 .banner {
     background-color: #000;
 }
@@ -98,14 +113,14 @@
     }
 
     .title {
-        font-size: 180px;
+        font-size: 160px;
         text-align: left;
-        padding-top: 50px;
+        padding-top: 20px;
         margin-bottom: -20px;
     }
 
     .subtitle {
-        font-size: 50px;
+        font-size: 46px;
         text-align: left;
     }
 
@@ -140,26 +155,18 @@
 }
 
 #about {
-    background-color: #000;
-    color: #fff;
+
 }
 
 #attendees {
-    background-color: #fff;
-    color: #000;
+
 }
 
 #tickets {
-    background-color: #000;
 }
 
 #venue {
-    background-color: #fff;
-    color: #000;
-}
 
-.attendees-subheading {
-    margin-top: -50px;
 }
 
 .attendees-subtitle {
@@ -221,7 +228,7 @@
 
 .partners-subheading {
     color: #f19333;
-    margin: -50px 50px 20px;
+    /*margin: -50px 50px 20px;*/
 }
 
 .partners-section {
@@ -231,16 +238,30 @@
     border-radius: 3px;
 }
 
-.speaker-name {
-    font-family: 'Archivo Black';
-    line-height: 100%;
+.session-presenter {
+    font-weight: bold;
+    padding-bottom: 2px;
 }
 
 .session-title {
-    font-size: 15px;
+    color: #f19333;
+    font-size: 2rem;
+    padding-bottom: 5px;
 }
 
 .video {
     text-align: center;
     margin: 25px 0;
+}
+
+.conduct {
+    padding-top: 15px;
+}
+
+.conduct a {
+    color: white;
+}
+
+ .tito-wrapper {
+	background:#ffffff !important;
 }

@@ -1,12 +1,241 @@
-[
-  {
-    "name": "Andrea Badgley",
-    "company": "Automattic",
-    "title": "Juggle and End: Keys to Efficient Live Chatting"
-  },
-  {
-    "name": "Ben McCormack",
-    "company": "FullStory",
-    "title": "Prove It: Clear Communication With Data"
-  }
-]
+{
+  "Customers Support Skills": [
+    {
+      "Name": "Andra Roston",
+      "Title": "Our customers are total characters!",
+      "Proposal": "We will be using a couple of drama games (no performing in front of a group though!) to build up a view of our customers, and figure out how best to communicate with them! It's a really fun experience where everyone gets to have a giggle and also learn something!\n\nPeople will start by creating character cards to represent a \"typical\" customer. Then, they'll take on those characters and interview each other in character! ",
+      "Company": "Acuity Scheduling",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Andrea Badgley",
+      "Title": "Juggle and End: Keys to Efficient Live Chatting",
+      "Proposal": "Live chat is fast, and that's why customers love it. They get an answer right away instead of having to wait for an email. Due to its fast pace, however, live chat can become stressful to the support professional on the other side of the chat bubble. Two stressors for live chat agents are 1) handling simultaneous chats and 2) wrapping up chats to get to the next customer in line. In this workshop, we will cover tactics for setting expectations and controlling chat conversations so that an agent can deliver fast resolution to multiple customers while keeping cool and calm.",
+      "Company": "Automattic",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Juliet Kellogg",
+      "Title": "Mapping the Customer Journey",
+      "Proposal": "I'd like to run a \"customer journey mapping\" workshop, where the \"user\" is actually your support agent.  Together we can identify weak spots in the agent experience. To get happy customers, you need a happy team. ",
+      "Company": "Athos",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Sarah Betts",
+      "Title": "Villians, trolls and grumps: surviving the worst of support",
+      "Proposal": "Rough customers are par for the course. I have some tricks for identifying what type of difficult customer is on the other end of the interaction, and ways to diffuse the situation. From middle schoolers with too much free time and a laptop, to the person who demands a red carpet \"because I pay your salary\" there  are ways to walk away from a support day feeling respect towards your self, and the energy to handle the rest of the support queue",
+      "Company": "Olark",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Sonya Green",
+      "Title": "Keeping the Internet of Things from exploding",
+      "Proposal": "Have you heard of social engineering? It's a hacker's go-to way to crack a company – and support agents are the first line of defense. It doesn't matter how secure your company's code is, if a support agent gives the right information to the wrong person. You'll learn to more confidently assess the risk of sharing account information. You do not need to know any coding to become a master thwarter of hackers.",
+      "Company": "resin.io",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Katharine McCarthy",
+      "Title": "Check Your Tone and Sound Profesh to Def",
+      "Proposal": "After you've figured out \"what\" to say to your customers, you have to decide \"how\" to say it. Do you want to sound friendly or formal, snarky or sincere, dorky or debonair? The tone or attitude you communicate in between the lines is just as important as what you write in black and white, and it can make the difference between a successful, cohesive customer experience and a disjointed, disappointing one. Defining and unifying your voice is even more important when the “you” amounts to several or many people in one support team, all speaking from the same umbrella identity. This workshop will help you learn how to 1) define your support voice, 2) develop a guide, and 3) reinforce it across multiple speakers. Your support messaging will become more profesh, recognizable, and more \"you\" as a result!",
+      "Company": "Ipsy",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Kelly O'Brien",
+      "Title": "World-building for better self-service",
+      "Proposal": "Your self-service lives or dies on whether your customers are engaging with your content. When your customers land on your support docs, they should immediately sense that you know where they're coming from and what they need. One of the best ways to create this connection is to dabble in a little professional world-building. By fabricating a small cast of fictional customers to star in your user docs, you can deliver much more powerful self-service experiences. \n\nUser personas have been stock-in-trade for growth teams and information architects for ages. But for self-service, we take it further. Fleshing out those customer personas into individual characters, whose struggles and successes we can use to illustrate our docs, delivers a ton of value: \n- Personal anecdotes and examples, even if they're made up, are way more likely to engage and inform your readers than faceless feature descriptions or abstract use case explanations.\n- Writing about fictional representations of your customers means you're constantly thinking about your actual customers, and what they need from your docs/products/services. \n- Tailoring your docs for your core customers also lets you align your self-service with your company's broader messaging, creating a more seamless customer experience. \n\nThis workshop will guide you, hands-on, through the process of developing a cast of fictional customers and the world they inhabit. We'll also look at specific examples of how to use these personas to make your support docs more engaging, more informative, and ultimately more successful.\n",
+      "Company": "Kayako",
+      "Type": "Workshop"
+    }
+  ],
+  "Self Skills": [
+    {
+      "Name": "Alexandria Shrader",
+      "Title": "Self Care to Prevent Burnout",
+      "Proposal": "Care is hard work, and it's the foundation of support. As support professionals, self care is easy to throw to the back of the priority list, and this workshop will explore the obvious and not so obvious challenges and benefits of prioritizing oneself.",
+      "Company": "Big Cartel",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Mercer Smith-Looper",
+      "Title": "Be the Boss",
+      "Proposal": "My workshop will include activities that help people really get to the crux of what they want in support and in their career, and then provide them with tools, encouragement and guidance on the best way to get there.",
+      "Company": "Atlassian (Trello)",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Zach Bouzan-Kaloustian",
+      "Title": "Finding the path to weathering the storm",
+      "Proposal": "I believe that the key to success in a support career is being resilient, and that how you get there is first by being vulnerable. I want to run a workshop that provides my history of building resiliency mixed with a few interactive exercises that enable participants to open up. They will encounter some challenging questions and prompts, work through them in group settings, and have a chance to reflect on how it made them feel. \n\nBy asking participants to face tough questions, they will learn their about physical and emotional triggers. Upon recognizing them, they'll be able to start developing ways to control their reaction, and be on the road to building resiliency. \n\nA few sample prompts to cover in a small group: \n- For 60 seconds, continually start and finish this sentence... \"I work most effectively when....\". This prompt helps people get uncomfortable and search inside themselves\n\n- Talking about Observations, Thoughts, Feelings, Wants related to a recent work experience. This helps you understand the difference between a thought and a feeling, with a framework on how to clearly express how you encounter a situation. \n\n- Break into groups of 3 and describe a work challenge that you're facing. Two people listen, provide feedback, coach, and help the person come up with a next-step for the situation to move towards a resolution.",
+      "Company": "DigitalOcean",
+      "Type": "Workshop"
+    }
+  ],
+  "Manager Skills": [
+    {
+      "Name": "Ben MacAskill",
+      "Title": "Motivating Your Team",
+      "Proposal": "I've been leading teams for more than a decade, both big and small. I've learned how to motivate those teams to amazing performance and longterm loyalty. I'll teach and engage the audience on topics such as effective communication, setting performance expectations, delegating important jobs, and leading by example. ",
+      "Company": "Smugmug",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Chris Bowler",
+      "Title": "Nailing the first impression … and beyond!",
+      "Proposal": "I envision an interactive session where I facilitate the participants going through the various steps required to create a multis-step onboarding campaign. The campaign will include timing based and behaviour based touch points. We'll cover mapping out the entire series, how to identify your overall onboarding goals, tips on writing good onboarding messages, and measuring & iterating on the whole shebang.",
+      "Company": "Wildbit",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Heather Knight",
+      "Title": "Using Radical Candor to Build Trust and Transparency within Your Team",
+      "Proposal": "This will be a basic introduction to the use of radical candor and how to use it when giving feedback within a team framework.  I'll share personal experiences of how radical candor increased trust and transparency within my team, as well as methods to give feedback.  This is based off the book \"Radical Candor: Be  A Kick Ass Boss Without Losing Your Humanity\" by Kim Scott.  It revolutionized my world and I'd love to share my experience with others.",
+      "Company": "Airbnb",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Melissa Geyer",
+      "Title": "Interviewing to grow a strong support team",
+      "Proposal": "I led the Simple customer support team's growth from zero to 130 - interviewing thousands of applicants over a few years. I'd like to share the techniques that I found most effective in identifying strong hires to build a powerful team.",
+      "Company": "Seed",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Mo McKibbin",
+      "Title": "Building a Love-love relationship between Support + Product",
+      "Proposal": "When support and product aren't in cahoots, you get two huge problems: Product doesn't know what customers want, and support doesn't know what changes are happening in the product or when, leading to communication mishaps with customers. Simply put: if product and support are not aligned, you have unhappy customers. This workshop will share some ways we keep everyone in sync at Help Scout, making for happy customers (and happy team members).",
+      "Company": "Help Scout",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Sarah Saadatjoo",
+      "Title": "Motivating and Empowering our Teams Through Coaching",
+      "Proposal": "In this session, we will talk about about the way we can motivate our teams through coaching. We’ll discuss some basic coaching techniques and ways to blend pure coaching with other management approaches (advising, directing, mentoring, etc.). Lastly, we’ll begin to talk about the power of coaching questions to establish rapport and empower our direct reports in problem solving.",
+      "Company": "MailChimp",
+      "Type": "Workshop"
+    }
+  ],
+  "Technical Skills": [
+    {
+      "Name": "Andrew Goetz",
+      "Title": "Beginner's guide to AWS: how to host a simple site",
+      "Proposal": "With most companies using AWS is some form or another, and with the recent AWS outage this month which affected many companies, I figured support professionals would like to get a bit more detail on what AWS is and how it is used in the real world. They can do the prep work of setting up their own AWS account and other than that shouldn't need much else than a text editor, browser and internet access. Afterwards we can disable everything (so no one will be charged the small hosting fees) or they can leave it up and build the site further.",
+      "Company": "New Relic",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Beck Gorman",
+      "Title": "Cataloging Support: A Library of Answers",
+      "Proposal": "Combining a clear, consistent hierarchical structure with free-ranging labels enables you to more efficiently assess and respond to cases, analyze case load, improve internal CS training, identify customers' common passion and pain points, and take actions to reduce future case load through self-service options and product improvement.",
+      "Company": "Ted",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Ben McCormack",
+      "Title": "Prove It: Clear Communication With Data",
+      "Proposal": "Do you need help convincing leadership to make a new hire? Would you like your company to focus more on improving the customer experience? Do you want to lead through clear and effective communication?\n\nIn this workshop, we’ll go over the basics of data modeling as it ties specifically to support. We’ll set up a spreadsheet, experiment with inputs and outputs, and ultimately deliver a presentation that you can use as the basis for a meeting with key stakeholders at your company. The demo will apply to capacity planning (hiring) and improving the customer experience, but the skills you learn will be applicable in any situation where data can tell a story.\n\nThis workshop isn’t just for managers. Understanding how to model data is a great way for an individual contributor to demonstrate leadership skills and influence the direction of support.\n\nBen McCormack is the former support team manager at Trello and current Hugger in Support at FullStory. He’ll use his experience in capacity planning at both Trello and FullStory to teach you how to clearly communicate with data at your company.",
+      "Company": "FullStroy",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Christopher Martinez",
+      "Title": "Organize your support data to tell better user stories.",
+      "Proposal": "Every company tries to tag their support cases but they don't take the time to think about why, what their goals are, and how they can best use tags to organize their information. The workshop will allow folks to get a first hand demonstration of why this problem is so hard and leads to poor stories from data and some tools that they can take home and put into practice tomorrow at their own support organizations. ",
+      "Company": "Idiomatic",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Diana Potter",
+      "Title": "Creating training courses 101",
+      "Proposal": "A workshop on onboarding. Creating a simple email course to teach new hires (or even new customers!) about how the software works, with specific assignments. We'll cover thinking up your course of study, creating daily lessons/assignments, and some basics on either email automation or an LMS.",
+      "Company": "Automattic",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Juan Vazquez",
+      "Title": "Using API’s to level up your toolset",
+      "Proposal": "Support teams use a lot of tools/applications which have API’s. I can show some use cases for creating neat productivity hacks that help your team get more done (like Slack slash commands).\n\nWe’ll dive into how, with a basic understanding of API’s, you can use tools like Zapier, Postman, and Google Sheets to get more out of the tools you use. ",
+      "Company": "Zapier",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Kasey Jones (and Dave Shanley)",
+      "Title": "Goal Setting and Team Metrics: From data-drowning to data-driven in 3 simple steps.",
+      "Proposal": "CS teams are often drowning in data - from average response time to LTV to churn rates. It can be tough to know where to focus or why one number matters more than the next. In this workshop, we’ll take you through our simple, but thorough process for identifying big team goals, the metrics to track their success, and how individual members can ensure they’re contributing to overall team performance. By the end of the workshop, you’ll be ready to lead a goal setting session with your own team, setting yourself apart as one data-driven up-and-comer. ",
+      "Company": "Use Nation",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Lyzi Diamond",
+      "Title": "Support engineering 101: How the internet works",
+      "Proposal": "One of the main challenges of support is defining and refining processes. Help desk software can help with this greatly, but even software involves a lot of manual work to keep processes flowing, whether it's assigning tickets, pulling metrics, or doing quality assurance. Fortunately, most help desk software programs offer APIs -- clear and structured methods for gathering raw data that you can then view and analyze. Being able to work with APIs effectively to streamline your workflows can help you and your team scale quickly, be more efficient, and dive into data in ways you had never before considered.\n\n\"Support engineering 101: How the internet works\" is meant to provide an introduction to the concepts involved in support engineering. We will do an introduction to how the internet works, HTTP requests and responses, and APIs. This workshop will prepare attendees for the \"Support engineering 201\" workshop in the afternoon, where we'll get our hands dirty writing some code to use the Help Scout API.",
+      "Company": "Mapbox",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Lyzi Diamond",
+      "Title": "Support engineering 201: Using the Help Scout API",
+      "Proposal": "One of the main challenges of support is defining and refining processes. Help desk software can help with this greatly, but even software involves a lot of manual work to keep processes flowing, whether it's assigning tickets, pulling metrics, or doing quality assurance. Fortunately, most help desk software programs offer APIs -- clear and structured methods for gathering raw data that you can then view and analyze. Being able to work with APIs effectively to streamline your workflows can help you and your team scale quickly, be more efficient, and dive into data in ways you had never before considered.\n\n\"Support engineering 201: Using the Help Scout API\" is meant to practice using some basic tools for support engineering. We will walk through what it means to practically make requests to APIs and handle responses, and then we will customize a script (in JavaScript) to make a request to the Help Scout API and gather informations. This workshop follows the \"Support engineering 101\" workshop in the morning, but the 101 is not necessary for folks who feel comfortable with API/web basics.",
+      "Company": "Mapbox",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Meggan King",
+      "Title": "Create a Customer Support Dashboard",
+      "Proposal": "Measure your customer service team and resource documents using dashboards. \nWe will use Klipfolio and Zendesk (also Olark if interested) to see what metrics to track, how to track them and what to do with the results. This will be a technical workshop and we will get into the Zendesk API.  ",
+      "Company": "Klipfolio",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Nikoletta Vecsei Harrold",
+      "Title": "Demystify ROI calculations for your Support Community",
+      "Proposal": "Support costs are skyrocketing in the tech industry because customer acquisition and expectations have gone through the roof. Basic Gartner and Forrester research shows that call center, chat and email support can be up to 100x costlier than web based self service support. Many companies are turning towards social customer care and support communities to ease their scalable growth pains. What if you are just starting out and need to convince your boss?  If the community has been around for a long while, you have to prove it’s value in measurable quantities if you want your community resources to grow, and be seen as a critical piece of the customer experience. \n\nThis session will attempt to showcase a couple of simple ways to calculate ROI for Social Customer Care initiatives and Support communities. There are so many calculators out there that are overly complicated, or you might not have access to the right data to run them. The techniques you learn in this session will help convince your stakeholders and executive sponsors alike.",
+      "Company": "Transamerica",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Nikoletta Vecsei Harrold",
+      "Title": "5 ideas to remove content churn from your support community",
+      "Proposal": "Community Content strategy has to overcome many challenges including the PDF graveyard phenomena and the 8 second rule, but there is still hope. Learn about 5 easy ways to integrate your support knowledge into the content process to shorten sales cycles, reduce call volumes and give your support team a boost of confidence with community authoring.",
+      "Company": "Transamerica",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Nora West",
+      "Title": "Scaling your Help Center with Internal Analytics",
+      "Proposal": "Your help center can be improved based on the internal content your team is leveraging to solve tickets and understand features.",
+      "Company": "Guru",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Patrick Graham",
+      "Title": "Leave The Developers At Home",
+      "Proposal": "A common scenario I have seen in my career in technical support is a support team member wanting to learn more technical skills as part their career path, out of general curiosity, or to better assist their customers without needing developer assistance. APIs are a core component of web applications and being able to use, understand, and support them are great career differentiators for someone in a support or success role. This workshop will walk attendees through making their first API calls (using Postman) and provide some example support cases with failing API calls for them to troubleshoot in pairs. They will walk away with a strong foundation in APIs that they can leverage for continued learning and supporting their customers.",
+      "Company": "Wildbit",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Jacqueline Jensen",
+      "Title": "15 Million Infographics Later, Here Are 10 Ideas For Your Inspiration",
+      "Proposal": "In this session, attendees will learn valuable skills including:   \n- Why infographics are important as a communication channel  \n- Tips and tricks you’ll need to create your first (or hundredth) infographic  \n- How creative professionals are using visual communication to engage both their internal and external audiences. \n- Examples of beautifully designed infographics to spark inspiration  ",
+      "Company": "Piktochart",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Michael Stone",
+      "Title": "How to automate everything using Apps Script (will likely come up with a more creative title than this)",
+      "Proposal": "At BetterCloud, Apps Script is tied to pretty much every single one of our Support services. Not to mention, it's completely free!! Apps Script allows us to automate processes and even write scripts for our customers to accomplish things that otherwise wouldn't be possible. By the end of the talk you will: learn what Apps Script is, why you should use it, how you can use it, see example of how we are using it day to day, and learn how you can get started.",
+      "Company": "BetterCloud",
+      "Type": "Workshop"
+    },
+    {
+      "Name": "Shaun VanWeelden",
+      "Title": "How to build your very own Slackbot",
+      "Proposal": "Slack Integrations are an amazing way to get external data directly where you are already at. During the talk, I'm going to give a step by step walkthrough of creating the Slack integration, setting up a basic server to interact with user requests, and how to hook up another API to actually get value.\n\nI'll have example code you can copy, I'll be showing how to do this with Javascript (Node.js + Express) and hosting on Heroku, though you're welcome to follow along in your preferred programming language.\n\nSome experience with Javascript, Git, and APIs is recommended to get the most value out of this session.",
+      "Company": "Engagio",
+      "Type": "Workshop"
+    }
+  ]
+}
