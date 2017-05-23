@@ -51,6 +51,14 @@
     line-height: 75%;
 }
 
+.sponsor-table td {
+    vertical-align: middle;
+}
+
+.session-table td {
+    border-top: 1px solid black;
+}
+
 .map-sidebar {
     background-color: #000;
     -moz-border-radius: 3px;
@@ -141,8 +149,13 @@
     }
 
     .flex-item-partners {
-        width: 15%;
+        width:  15%;
         margin: 0% 5%;
+    }
+
+    .flex-item-sponsors {
+        width:  33%;
+        /*margin: 0% 5%;*/
     }
 
     .flex-item-speakers {
