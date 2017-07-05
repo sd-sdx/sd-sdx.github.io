@@ -56,7 +56,14 @@
 }
 
 .session-table td {
-    border-top: 1px solid black;
+    border-bottom: 1px solid #DDD;
+}
+
+.session-table .session-type {
+    background-color: #f19333;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
 }
 
 .map-sidebar {
@@ -251,14 +258,18 @@
     border-radius: 3px;
 }
 
+.session-room {
+    font-weight: bold;
+}
+
 .session-presenter {
     font-weight: bold;
-    padding-bottom: 2px;
+    padding-top: 10px;
 }
 
 .session-title {
     color: #f19333;
-    font-size: 2rem;
+    font-weight: bold;
     padding-bottom: 5px;
 }
 
