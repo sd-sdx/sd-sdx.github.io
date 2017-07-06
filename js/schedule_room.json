@@ -1,0 +1,688 @@
+{
+  "template": {
+    "talks": [
+      {
+        "room": "",
+        "time": "9:00 - 9:20AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:20AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:20AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:20AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "workshops": [
+      {
+        "room": "",
+        "time": "9:00 - 9:45AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": "",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:45AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": "",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:45AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": "",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:45AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": "",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:45AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": "",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "",
+        "time": "9:00 - 9:45AM",
+        "name": "",
+        "company": "",
+        "title": "",
+        "description": "",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      }
+    ]
+  },
+  "room355": {
+    "talks": [
+      {
+        "room": "Ballroom 355",
+        "time": "9:00 - 9:20AM",
+        "name": "Max Yoder",
+        "company": "Lessonly",
+        "title": "Laying the Foundation for a Culture of Candor: This session discusses the power of leading with vulnerability and gratitude",
+        "description": "Max Yoder, CEO of Lessonly, has built his company on the foundation of candor. He has a great way of expressing the importance of vulnerability and appreciation. He speaks to how leaders have to be brave enough to share first, and let their teams follow suit."
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "9:30 - 9:50AM",
+        "name": "Mahesh Ram",
+        "company": "Solvvy ",
+        "title": "Avoiding Ticket Overload: How To Identify Weak Points In Your Self-Service Support Flow",
+        "description": "Support superstars want to quickly provide accurate answers to customers so an efficient self-service strategy is paramount. But how do you know if self-service is working well for your customers? What KPIs matter most? Solvvy’s CEO Mahesh Ram will teach the data secrets that identify weak points in your self-service support flow and what to do about it."
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "10:00 - 10:20AM",
+        "name": "Jon Coon",
+        "company": "Homebase",
+        "title": "2000 miles apart: Leading & Managing remotely: The fundamentals to leading a remote, work from home team ",
+        "description": "You will leave this talk with a framework to ensure your remote team is set up to be successful and scale."
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "10:30 - 10:50AM",
+        "name": "Valentina Thoerner",
+        "company": "WooCommerce",
+        "title": "Customer Feedback: Are you really listening? How to take advantage of the good, the bad, and the ugly - the way they share it",
+        "description": "What do you do with those comments your customers leave after a successful (or not so successful) support interaction?Who reads (or makes an effort to ignore) the feedback given by happy and grumpy customers? How can you make sure these comments don’t just get lost on individual support staff inboxes - and instead turn them into valuable sources of insight for support and product development?<br/>Learn how to leverage qualitative research to enrich the quantitative data (CSAT, ticket touches, time to resolution) you already use: I’ll teach you how to do it, the time and resources you need (less than you’d think). And I'll share the results of our own experiment at WooCommerce with this approach. "
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "11:00 - 11:20AM",
+        "name": "Dave Dyson",
+        "company": "Zendesk",
+        "title": "Demolish Your Silos:   How peer networks helped Zendesk’s Customer Advocacy team scale  ",
+        "description": "Learn how subject matter expert teams and peer councils can prevent silos from killing your growing team’s culture"
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "11:30 - 11:45AM",
+        "name": "Aaron Thompson",
+        "company": "4-Tell",
+        "title": "Making Premium Support, Premium: Best practices of Premium Support program development & execution",
+        "description": "Years of experience in Premium Support program development, sales, execution & scaling at Jive software - combined with my naturally hilarious public speaking delivery will keep EVERYONE on their toes.  Individual contributors will love my anecdotes from the front lines while leadership will covet the immense levels of experience & insights from the strategic level.  All while being SO funny.  I mean, side splitting funny.  I'm hilarious."
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "2:00 - 2:20PM",
+        "name": "Emily Triplett Lentz",
+        "company": "Help Scout",
+        "title": "The ROI of Saying Thank You: Does thanking your customers impact your company's bottom line?",
+        "description": "We all know sending handwritten thank-you notes to customers is a lovely thing to do, but what kind of impact does it actually have? Is it measurable? I've started an experiment at Help Scout where I send handwritten notes to a) people who have signed up for free trials and b) customers who have converted from free trials to paid plans, to see whether and how much this impacts conversions and churn rates. In this talk, I'll share early learnings from that experiment, as well as approaches for using data (or even the quest for data!) to get buy-in from senior leadership."
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "2:30 - 2:50PM",
+        "name": "Martin Kõiva",
+        "company": "Pipedrive",
+        "title": "Support 100k+ users in in 150 countries, in 2 languages, from 5 locations? Sure, how hard can it be! Our 7-year evolution from a tiny team to a big one, eras of different tools and how we became obsessed with scaling support quality",
+        "description": "Pipedrive has grown very rapidly as a company and so has our support. Support crew has grown from 7 to 70 (estimation by the time of the event), 2k tickets three years ago to 17k tickets monthly, 40 people to 300 people etc etc.<br/>I would tell the story of scaling a global support team in many locations, while managing other change (of tools, support strategy, supported languages, new offices) at the same time. It's been a hell of a ride.<br/>Besides the \"wow what a story\" section, an important part would be how we started look for ways to make the quality better, what the internal QA program looks like and why it's crucial for long term success."
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "3:00 - 3:20PM",
+        "name": "Sharon Moorhouse",
+        "company": "Intercom",
+        "title": "How to say NO to customers: Difficult conversations with unhappy customers exist - we wish they didn’t, but they do. Instead of shying away from them, learn how to own the shit out of them and empower your team to do the same.",
+        "description": "Delivering truly delightful and memorable support to customers is great. There are endless numbers of blog posts, tips, tricks and talks on how to make your customers happy. There aren’t however, almost as many resources related to managing and supporting your customers when they’re NOT happy. Difficult conversations with unhappy customers exist - we wish they didn’t but they do. How do you say ‘NO’ and say it well? When you’re on the front line, representing your company’s product decisions, how do you deliver negative news successfully? And is it even possible to remain friendly and personal when saying no?"
+      },
+      {
+        "room": "Ballroom 355",
+        "time": "3:30 - 3:50PM",
+        "name": "Mikhail Naumov",
+        "company": "Digital Genius",
+        "title": "\"AI is my Friend\": Practical Applications of Machine Learning in Contact Centers: Leverage AI-driven technologies to support growing volumes, channels,  and increasing customer expectations, while delivering a personalized and timely service experience.",
+        "description": "The hype around AI makes it difficult to separate tangible value from the noise. In this session, Mikhail Naumov (Co-founder, CSO) at DigitalGenius, will share practical case studies of companies using deep learning and AI in their customer service & support  operation today. By reinforcing their contact centers with a layer of AI companies are able to scale their support operations while empowering their employees with the tools to provide better experiences and effective resolutions."
+      }
+    ],
+    "workshops": []
+  },
+  "room294": {
+    "talks": [],
+    "workshops": [
+      {
+        "room": "Room 294",
+        "time": "9:00 - 9:45AM",
+        "name": "Beck Gorman",
+        "company": "TED",
+        "title": "Cataloging Support: organizing for efficiency",
+        "description": "Take a lesson from libraries. Learn to systematically organize the information your customer support team publishes and collects. Combining a clear, consistent hierarchical structure with free-ranging labels enables you to more efficiently assess and respond to cases, analyze case load, improve internal CS training, identify customers' common passion and pain points, and ultimately take actions to reduce future case load through self-service options, automation, and product improvement.",
+        "prerequisites": "",
+        "before": "Please research your current company's organizational and product/service structures, or bring information on a company of interest. This information can often be found on a private Intranet. Publicly, your best bet is typically the About section and/or Careers pages. e.g., you can get some idea of Barnes & Noble's organizational structure here: http://careers.barnesandnoble.com/inside-b-n",
+        "bring": "You will likely want a computer with Internet access, but can also bring printed research and work with provided pen/paper."
+      },
+      {
+        "room": "Room 294",
+        "time": "10:00 - 10:45AM",
+        "name": "Nikoletta Vecsei",
+        "company": "Transamerica",
+        "title": "Demystify ROI calculations for your Support Community",
+        "description": "This session will attempt to showcase a couple of simple ways to calculate ROI for Social Customer Care initiatives and Support communities. There are so many calculators out there that are overly complicated, or you might not have access to the right data to run them. The techniques you learn in this session will help convince your stakeholders and executive sponsors alike. ",
+        "prerequisites": "",
+        "before": "If you manage or contribute to a support community (or want to do so) and have access to some quantitative data from your support channel. Look up maybe some data for the last 90 days on how many cases were opened on community vs your traditional channels and bring those numbers with you.",
+        "bring": "Paper and pen"
+      },
+      {
+        "room": "Room 294",
+        "time": "11:00 - 11:45AM",
+        "name": "Andrew Goetz",
+        "company": "MemSQL",
+        "title": "A glimpse into AWS",
+        "description": "We hear about it all the time. AWS this, AWS that, but what IS this AWS thing all about? In this workshop we will go over what Amazon Web Services are, why it is so common place in todays tech world, and how you or your customers might be using it. But most importantly, we will use it ourselves by exploring some of the common services, spinning up our own cloud machines, and hosting our own simple website.",
+        "prerequisites": "",
+        "before": "Sign up for an Amazon AWS account and create their private key for ssh access. (this involves adding a credit card, but we will be using only \"free tier\" could machines, so no one will be charged). They also will need a terminal application on their laptop.",
+        "bring": "Laptop"
+      },
+      {
+        "room": "Room 294",
+        "time": "2:00 - 2:45PM",
+        "name": "Chris Martinez",
+        "company": "Idiomatic",
+        "title": "Answering your companies toughest questions with the Voice of your Customer",
+        "description": "Customer support teams have the most customer contact of any part of most companies. They should play a strategic role in unlocking to answer the toughest strategic questions about the customer experience for your business. These questions include \"How do we improve NPS?\", \"Why did we see a dip in retention?\", and \"What do our users say about our new release?\"<br/>.This workshop will walk you through how to take a top-down approach, think about the questions first and design your data collection to empower you with the ability to answer these questions directly from your support data. You will leave having created your own data setup to answer a question you currently have. You can take this setup and use it internally to advocate for changing the way you track data to unlock the Voice of Customer from your ",
+        "prerequisites": "",
+        "before": "Think about what the most important strategic questions are for your business?",
+        "bring": "Laptop"
+      },
+      {
+        "room": "Room 294",
+        "time": "3:00 - 3:45PM",
+        "name": "Meggan King",
+        "company": "Klipfolio",
+        "title": "Metrics Madness: Using metrics to balance the workload across support team",
+        "description": "In this workshop we will learn to graph metrics and use the results to help create a coverage schedule for local support staff, remote support staff and predict the best time for support team expansion. We will see how the data can tell us when to stagger staff hours, increase day-to-day coverage and alert when the customer demands are highest.",
+        "prerequisites": "A keen interest in learning how to use data, or desire to learn how to organize data",
+        "before": "Be ready to talk about metrics they already track or metrics they want to track. Tools you already use. NOTE: Can start up a Klipfolio trial and import metrics ahead of time. ",
+        "bring": "Laptop, visualization tools already use, Klipfolio account if interested in working along, ideas"
+      },
+      {
+        "room": "Room 294",
+        "time": "4:00 - 4:45PM",
+        "name": "Chris Bowler",
+        "company": "Wildbit",
+        "title": "Onboarding: A Framework For Early Success",
+        "description": "Building a successful product starts with understanding the problem you want to solve, your ideal customers, and finding those people. Once you do, their first few experiences with your product will make the difference between them walking away or becoming an engaged customer.<br/>And this is why customer onboarding is vital to your product. You’ll come away from this workshop with a framework for creating robust customer onboarding campaigns. We’ll go through a few of the exercises together, such as defining your levels of engagement and identifying your Wow moment. And we’ll have fun doing it! ",
+        "prerequisites": "",
+        "before": "Review or define the ideal customer for your product",
+        "bring": "Enthusiasm"
+      }
+    ]
+  },
+  "room296": {
+    "talks": [],
+    "workshops": [
+      {
+        "room": "Room 296",
+        "time": "9:00 - 9:45AM",
+        "name": "Andrea Badgley",
+        "company": "Automattic",
+        "title": "Take Control! Techniques for Efficient Live Chatting",
+        "description": "Live chat is fast, and that's why customers love it. Due to its fast pace, however, live chat can become stressful to the support professional on the other side of the chat bubble. Two stressors for live chat agents are 1) handling simultaneous chats and 2) ending chats. In this workshop, we will cover tactics for setting expectations and controlling chat conversations so that an agent can deliver that fast resolution to multiple customers while keeping cool and calm.",
+        "prerequisites": "",
+        "before": "Attendees need to install Slack on their laptops (which they will bring to the workshop) and join the SupportDriven Slack.",
+        "bring": "Laptop"
+      },
+      {
+        "room": "Room 296",
+        "time": "10:00 - 11:45AM",
+        "name": "David Lemus and Sara Mesing",
+        "company": "Service Design PDX + Portland Community Design Thinkers",
+        "title": "Service Blueprinting: Mapping your customer experience to your company's strategy",
+        "description": "Companies are (finally) understanding that a competitive advantage in the marketplace is in customer experience. And with support teams often being the initial touchpoint between a customer and a product, they can be the make or break for that experience. Service Blueprinting is a visual mapping tool to bring clarity to the connection between customer support teams, their managers and product teams.",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "Room 296",
+        "time": "2:00 - 2:45PM",
+        "name": "Lyzi Diamond",
+        "company": "Mapbox",
+        "title": "Better analytics with APIs Part 1: How the internet works",
+        "description": "APIs and HTTP and JSONP, oh my! Before you can harness the power of APIs to improve your support team analytics, it can be helpful to learn how the internet works in general. From requests and responses to HTTP status codes and authentication, these tools and principles will prepare you for working with APIs directly. Zero experience necessary -- this workshop is a prerequisite for Part 2, but if you understand these concepts already then you can go right to Part 2.",
+        "prerequisites": "",
+        "before": "Bring a computer with Google Chrome installed.",
+        "bring": "Computer"
+      },
+      {
+        "room": "Room 296",
+        "time": "3:00 - 3:45PM",
+        "name": "Lyzi Diamond",
+        "company": "Mapbox",
+        "title": "Better analytics with APIs Part 2: The Help Scout API",
+        "description": "NOTE: You do NOT need to attend Part 1 to attend this workshop, however you shuld be comfortable with the concepts of the internet: requests, responses, and HTTP.<br/>How can you get more customized insights from your help desk than the stock reporting tools provide? Use the API! This workshop will show you how to use the Help Scout API to demonstrate the power of using APIs to gain more insights into your support analytics. We will be writing a little bit of code, but if you're comfortable with the aforementioned concepts, the workshop should be followable",
+        "prerequisites": "Part 1 or a basic understanding of requests, responses, and HTTP.",
+        "before": "Bring a computer with Google Chrome installed, a text editor (Sublime Text or Atom ideally) installed, and Postman installed.",
+        "bring": "Computer"
+      },
+      {
+        "room": "Room 296",
+        "time": "4:00 - 4:45PM",
+        "name": "Michael Stone",
+        "company": "BetterCloud",
+        "title": "Apps Script: Automating Everything ",
+        "description": "Google Apps Script is a JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications. In this session you will be given a brief intro to the tool along with ways you can use it to automate processes and connect services within your Support organization. Using this tool, our team has built: Slack bots, ticket assignment scripts, ticket review bots, and much more. The possibilities are endless!",
+        "prerequisites": "Light programming knowledge",
+        "before": "Access to Google Drive",
+        "bring": "Computer"
+      }
+    ]
+  },
+  "room298": {
+    "talks": [],
+    "workshops": [
+      {
+        "room": "Room 298",
+        "time": "9:00 - 9:45AM",
+        "name": "Nora West",
+        "company": "Guru",
+        "title": "Advancing your External Help Center",
+        "description": "Learn how to improve the effectiveness of your external help center by analyzing sample internal support data and creating a plan to improve your help center based on the results.",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "Room 298",
+        "time": "10:00 - 10:45AM",
+        "name": "Ben MacAskill",
+        "company": "SmugMug",
+        "title": "Motivational Leadership: No begging, no yelling",
+        "description": "Real, lasting motivation is not about the charisma of the person in charge. I'll share a basic framework to drive performance and loyalty on your team without yelling, begging, or needing to be larger-than-life inspiring. This workshop is for all levels of leadership experience, including \"not yet.\"",
+        "prerequisites": "",
+        "before": "Attendees should start a list (mental or physical) of jobs, tasks, challenges or changes that have been difficult to get the team motivated on.",
+        "bring": ""
+      },
+      {
+        "room": "Room 298",
+        "time": "11:00 - 11:45AM",
+        "name": "Andra Roston",
+        "company": "Zapier",
+        "title": "From Persona to Person: Getting Into Their Heads",
+        "description": "During this workshop, we'll be using some drama games to get to know your customers better! Getting in their heads will help you think differently about the challenges they might face when using your prodcut and contacting support, and understand the best way to help them.</br>Don't worry - there won't be any presenting to the group, or being a tree! Come prepared to have fun and be a bit slly!",
+        "prerequisites": "",
+        "before": "Think of a type of customer you see a lot in your queue who you would like to get to know better",
+        "bring": "Pen and paper"
+      },
+      {
+        "room": "Room 298",
+        "time": "2:00 - 2:45PM",
+        "name": "Sarah Saadatjoo",
+        "company": "MailChimp",
+        "title": "When Coaching is the Answer ",
+        "description": "In this session, we will talk about about the way we can motivate our teams through coaching. We’ll discuss some basic coaching techniques and ways to blend pure coaching with other management approaches (advising, directing, mentoring, etc.). Lastly, we’ll begin to talk about the power of coaching questions to establish rapport and empower our direct reports in problem solving.",
+        "prerequisites": "",
+        "before": "Think about a challenging personnel situation you are facing",
+        "bring": ""
+      },
+      {
+        "room": "Room 298",
+        "time": "3:00 - 3:45PM",
+        "name": "Mercer Smith-Looper",
+        "company": "Atlassian (Trello)",
+        "title": "Be the Boss: Own your Career and Get Where you Want to Go in the Unknowable Future",
+        "description": "During this workshop you will create a plan for your future goals and learn how to create attainable, digestible plans to accomplish even the most far-fetched of career or personal desires. Learn how to roll with the punches when things in life change, and how to maximize your potential to get to where you want to go.",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "Room 298",
+        "time": "4:00 - 4:45PM",
+        "name": "Laure Parsons",
+        "company": "Notion",
+        "title": "Team Goal Setting",
+        "description": "This workshop will help you work with your team to establish goals. Using the OKR (Objective and Key Results) framework, we’ll talk about the process of setting goals and metrics that help your team see how the work they do makes a difference. This framework helps teams support the overall objectives of the company without using top-down solutions. As a group, we’ll participate in a sample goal-setting meeting and help each other identify and solve common obstacles in aligning our teams.",
+        "prerequisites": "",
+        "before": "Attendees can come with the top 3 goals their company is focused on (if known) ",
+        "bring": ""
+      }
+    ]
+  },
+  "room323": {
+    "talks": [],
+    "workshops": [
+      {
+        "room": "Room 323",
+        "time": "10:00 - 10:45AM",
+        "name": "Sarah-Mei Estrada",
+        "company": "Wistia",
+        "title": "Delight Customers With Your Face (or the face of someone you work with)",
+        "description": "Have you ever wondered, \"Gosh. How do customers know they are talking with an awesome human and not a really nice robot?\" Well, you're in for a treat -- video is here! Personalized video is one way to help make your support more human and surprisingly delightful, whether that's a video explaining a concept or a video to welcome a new user. By the end of this workshop, you'll have created a friendly, personalized video that's ready to be sent off to one of your customers!",
+        "prerequisites": "",
+        "before": "1) Identify 1 to 3 users/customers who you'd want to send a video to (some ideas: a brand new customer, a long-time customer, someone who recently wrote in with a support question).<br/>2) Send Sarah-Mei your answer to this question \"What has prevented you from making & sending more personalized video to your customers?\" ",
+        "bring": "REQUIRED: Something to record a video with! Laptop with working webcam Laptop should include some type of video recording software. If you want a screencast, you'll want to make sure you have a tool that does that (Quicktime Player has this ability). If you don't have that, then a smartphone camera works great, too!<br/>OPTIONAL: Attendees may want to have a video sharing software, for ease of sharing the video with a user. The outcome of this workship will be the creation of a video, so attendees may want to think ahead to how they will share it. Some video sharing solutions: Wistia, Youtube, Vimeo, Vidyard."
+      },
+      {
+        "room": "Room 323",
+        "time": "11:00 - 11:45AM",
+        "name": "Patrick Graham",
+        "company": "Wildbit",
+        "title": "Providing API Support",
+        "description": "These days a large portion of products offer APIs for their customers to integrate with but not everyone in support is familiar with how to make API calls, let alone support their customers using them. The purpose of this workshop is to increase technical skills and provide some hands on experience with consuming an API. We will be using Postman, an API client, for testing and troubleshooting REST API calls without writing a line of code.",
+        "prerequisites": "",
+        "before": "Before this workshop, please: Attendees should download and Install Postman (https://www.getpostman.com/)  ",
+        "bring": "Computer"
+      },
+      {
+        "room": "Room 323",
+        "time": "2:00 - 2:45PM",
+        "name": "Alexandria Shrader",
+        "company": "Big Cartel",
+        "title": "Can't Pour from an Empty Cup (and also the cup's on fire): Self Care to Avoid Burnout",
+        "description": "Working in a care-based position can take a lot out of you if you don’t have yourself as a priority. We will be discussing self-care as a means to staying in support long term (and burn free.)",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "Room 323",
+        "time": "3:00 - 3:45PM",
+        "name": "Melissa Geyer",
+        "company": "Seed",
+        "title": "Intentional Interviewing",
+        "description": "Interviewing should be a powerful tool, letting you build your team with the right people. So much money and time is wasted when you hire the wrong person. In this workshop you'll learn how to interview, uncover more about your candidates with your interviewing strategy and technique, and learn the skills for a more masterful inteview process that you can teach your team.",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "Room 323",
+        "time": "9:00 - 9:45AM",
+        "name": "Zach Bouzan-Kaloustian",
+        "company": "DigitalOcean",
+        "title": "Building Resiliency Through Coaching",
+        "description": "Everyone faces career setbacks: In this highly interactive session, you’ll learn how to be more resilient by building a coaching habit. Be ready to open up, trust, and be highly engaged in a guided, small-group exercise.",
+        "prerequisites": "Trust and confidentiality are a must for you to maximize the value of this session.",
+        "before": "What’s one thing you’re struggling with at work?",
+        "bring": "An open mind. Optional: Notebook & Pen."
+      },
+      {
+        "room": "Room 323",
+        "time": "4:00 - 4:45PM",
+        "name": "Shaun VanWeelden",
+        "company": "Engagio",
+        "title": "How-to: Build a Slackbot for your organization",
+        "description": "We'll cover step-by-step what's needed to create a Slackbot of your own. This will be a more technical talk about what's possible, how to get started with their APIs, how to get data from other places, and then how to bring it all together.",
+        "prerequisites": "We'll be talking about APIs and coding endpoints, the ability to use APIs and code a bit will make this talk more actionable for you.",
+        "before": "Ensure you are a Slack admin, knowing how to host an API endpoint will help a lot",
+        "bring": "Laptop"
+      }
+    ]
+  },
+  "room327": {
+    "talks": [
+      {
+        "room": "Room 327",
+        "time": "9:00 - 9:20AM",
+        "name": "Sarah Saadatjoo",
+        "company": "MailChimp",
+        "title": "Finding the why: Establishing a vision for your team",
+        "description": "When MailChimp’s Support Leadership Team realized they needed a way to help people find value in their work, they went back to basics and established a vision of their own. Learn how they uncovered their purpose, collaborated across teams, and crafted a vision statement that drives team unity and engagement."
+      },
+      {
+        "room": "Room 327",
+        "time": "9:30 - 9:50AM",
+        "name": "Kristin Aardsma",
+        "company": "Basecamp",
+        "title": "Adding Humanity by Removing Numbers: Learn how the Basecamp support team created a calmer working environment and more collaborative culture by focusing less on statistics and more on the humanity of its customers and employees.",
+        "description": "When a perfect storm of turnover and busy season hit Basecamp’s support team in 2016, we began building bad habits based mostly on numbers and statistics that threatened to destroy our morale. By slowly removing some innocuous-seeming yet truly dangerous metrics and shifting the focus from the email queue to the single customer in front of you, we were able to fix some of the bad habits we created for ourselves. One of the essential changes was creating dedicated time away from customer contact, which we dubbed Research & Innovation (R&I for short). A day’s work was no longer boiled down to a series of numbers, but to conversation comprehension: with customers, each other, and other support teams."
+      },
+      {
+        "room": "Room 327",
+        "time": "10:00 - 10:20AM",
+        "name": "Zandy Ring",
+        "company": "Automattic",
+        "title": "Breaking up the Band: How to split a large, overgrown team into small, tight and efficient teams (while growing leaders) ",
+        "description": "My team had grown to 18 Happiness Engineers, ranging from New Orleans, LA, USA, to Davao City, Philippines. As Happiness at Automattic grew, we needed a better way to scale our teams. The team was the largest Happiness team, and team members would have to attend team chats during dinner or in the middle of their night - we were unwieldy, unable to effectively communicate, and my ability to support each Happiness Engineer was diminishing.<br/>In April of last year, we began the process of splitting the single, large Happiness team into three, nimble, geographically-based teams. Along the way, we grew three new Happiness Leads, and therefore, our lead base.<br/>I will explain how we did it, why our plan works, and how you can make it work for you."
+      },
+      {
+        "room": "Room 327",
+        "time": "10:30 - 10:50AM",
+        "name": "Brittany Bishop",
+        "company": "Animoto",
+        "title": "Managing like a support agent: Using the skills you've got mastered to be a stellar manager",
+        "description": "Being a manager is crazy hard! Most new support managers are promoted to the role because they are excelling at their own career in support, but we have little to no experience managing a team. We've all got awesome customer support skills like empathy, problem solving, and improvisation skills, but how do we teach others to use those skills and how do we use those skills in our new role? This talk is about how to use your ninja customer support skills and leverage them as management tools. Highlights include turn your no's into a yes, and using your listening skills to empower your team to solve problems on their own. I'll use some of my own experiences on two different teams to highlight how I've re-wired my support skills to work for me as a manager and share stories about a few of my manager friends as well"
+      },
+      {
+        "room": "Room 327",
+        "time": "11:00 - 11:20AM",
+        "name": "David Klint",
+        "company": "Illuminate Education",
+        "title": "Things I learned in the back of an ambulance: Methods for Handling Stress From a Former EMT/Firefighter ",
+        "description": "In my previous career as an EMT and firefighter, I handled really stressful and intense situations. From massive blood loss, to compound fractures, my actions often meant the difference between life and death for my patients.<br/>When I switched careers into customer support, I realized that many of the techniques I'd honed in my 5 years working in emergency medical services applied to my new day-to-day triaging of phone calls and tickets. While no one is likely to die if I answer a ticket incorrectly, being able to keep a clear head in a stressful situation is super helpful. In this session, I'll share the tools I learned in the back of an ambulance to help you thrive in your job while in a stressful environment."
+      },
+      {
+        "room": "Room 327",
+        "time": "2:00 - 2:20PM",
+        "name": "Sukhpreet Anand",
+        "company": "Kayako",
+        "title": "The Benefits of Understanding Your Customer: Reduce churn, nurture long-lasting relationships, and upsell value (not features) by understanding your customer’s point of view",
+        "description": "Many organizations want to reduce churn and want their customers’ loyalty. Is this something which requires a rocket science study? No. We have dealt with so many customers think our product isn’t helpful for them anymore. However, after talking to them and understanding them, we can actually retain them once we know more about their workflow, their experiences and their expectations. Many times, support teams need to act like teachers and educate them on your product. Even further, by using the right upselling techniques, you can grow loyalty and increase revenue too. When it comes to it, customers just want effortless experiences, which is only possible when you make their journey as smooth as possible."
+      },
+      {
+        "room": "Room 327",
+        "time": "2:30 - 2:50PM",
+        "name": "Katelyn Hertel",
+        "company": "Fastly",
+        "title": "Keeping Support Sane! How to Make it as a Junior Support Engineer without Burning Out",
+        "description": "It's incredibly hard to make it as a Junior Support Engineer or someone just entering into the tech world. It can be overwhelming, daunting, and could lead to burnout quickly. That's what happened to me!<br/>In this talk, I'll walk through my story and what happened during my first job in NYC, how I burnt out quickly, and what I did to try to fix it. I'll discuss some of the self care tips I used and how they helped me adjust and ultimately love my job. We'll talk about how I learned to ask for advice, manage time better, speak up when something doesn't feel right, take care of myself better, and set goals, among others. Taking on a support role doesn't need to be overwhelming and scary and it does get better; it got better for me and hopefully my story can help you in your support journey!"
+      },
+      {
+        "room": "Room 327",
+        "time": "3:00 - 3:20PM",
+        "name": "Kaylin Bailey",
+        "company": "Illuminate Education",
+        "title": "Hiring doesn't have to suck: How to hire (or be hired) in support for the traits you cannot train on ",
+        "description": "Support is one of the most perplexing roles to find the right people for. In most other positions, there is a clear black and white list of skills that make someone good at their job. In support, it is shades of gray. A wide range of different experience and qualities can make for a good support hire, but how do you know if someone has what it takes? In this session we’ll talk about how to setup a job posting and interview that pulls the right traits out of applicants, and alternatively how to show that you have these traits as an interviewee."
+      },
+      {
+        "room": "Room 327",
+        "time": "3:30 - 3:50PM",
+        "name": "Kasey Jones and Dave Shanley",
+        "company": "Notion",
+        "title": "Data Driven Leadership: Using Little Data to Scale Big: Learn how to identify the metrics that matter most to your team’s success, and create a data-driven framework that helps your team stay focused today, while preparing for growth in the future.",
+        "description": "Growth is hard. There’s no way around it. You need to stay focused and productive on the task(s) at hand, but with an eye toward the future. And it gets harder the more elements you add into the mix - additional team members, changes in the products you support, faster growth. The pressure of incorporating a data analytics practice can feel like adding fuel to the fire, but in this talk will show you how focusing on the metrics that matter most can help quiet the noise, get you and your team focused, and get you ready for whatever’s next for your department."
+      },
+      {
+        "room": "Room 327",
+        "time": "4:00 - 4:20PM",
+        "name": "Sabrina Gordon",
+        "company": "Intercom",
+        "title": "How to successfully open a remote customer support office: A guide to creating a not shitty not disconnected not call center in somewhere other than the Bay Area. ",
+        "description": "here’s tons of bad press around companies moving to cheaper locations and opening up call centers that are disconnected from the company and don’t offer employees any career growth. It’s a real challenge to try and open a new office that feels like part of the same company from scratch, without the founders or any other functional teams around. If you start off wrong and quickly build on top of that, it’s almost impossible to bounce back. How do you define what your company culture is and make sure it exists in the new office? How do you make sure people are connected to your other office(s), and that people in your other office(s) don’t forget about you? How do you offer people in your new customer support only office career growth and opportunity?"
+      },
+      {
+        "room": "Room 327",
+        "time": "4:30 - 4:50PM",
+        "name": "Nicole St. Germain",
+        "company": "ConvertKit",
+        "title": "Move Up with Masterminds! Group up with other support professionals to build skills and achieve your support career goals",
+        "description": "I will share why a mastermind can be an important step in growing a support career. I will outline the necessary ingredients of a successful mastermind and demystify any terms or misconceptions of masterminds. I will teach the exact steps to create an effective mastermind that benefits every group member, from achieving specific career goals to building valuable leadership and support-specific skills. I will ensure that every attendee leaves knowing what a mastermind is, how to get started, and how to make it a valuable piece of their career development!"
+      }
+    ],
+    "workshops": []
+  },
+  "room328": {
+    "talks": [],
+    "workshops": [
+      {
+        "room": "Room 328",
+        "time": "9:00 - 9:45AM",
+        "name": "Ben McCormack",
+        "company": "FullStory",
+        "title": "Prove It: Leading with clarity and data",
+        "description": "One of the keys to leadership is clear communication. During this workshop, we'll learn how to make a \"Prove It\", a presentation model for clearly presenting data to influence the direction of support or the entire company. Attendees will walk away with a template and a full demo Prove It (of their own making) that they can use as a foundation for future Prove Its within their own company.   ",
+        "prerequisites": "Basic experience with Google Sheets/Excel & Google Presentations/PowerPoint is helpful, but not required. ",
+        "before": "Access to Google Drive",
+        "bring": "Computer"
+      },
+      {
+        "room": "Room 328",
+        "time": "10:00 - 10:45AM",
+        "name": "Juan Vazquez and Hoon Park",
+        "company": "Zapier",
+        "title": "Supercharge your support toolset and get the most out of your apps    ",
+        "description": " bet your support team uses a lot of tools and apps. Maybe there's one you *love* but it doesn't quite work exactly the way you want. No worries! In this workshop, we'll show you the tools you can use to supercharge your apps and make them do what you want... even if you've never written a single line of code.",
+        "prerequisites": "",
+        "before": "Install Postman (https://www.getpostman.com/)<br/>sign up for Zapier (https://zapier.com/)<br/>(optional) read \"An Introduction to APIs \"(https://zapier.com/learn/apis/) ",
+        "bring": "Computer"
+      },
+      {
+        "room": "Room 328",
+        "time": "11:00 - 11:45AM",
+        "name": "Heather Knight",
+        "company": "Airbnb",
+        "title": "Fearless Feedback: How to use Radical Candor to Build Trust on Your Team ",
+        "description": "Using Radical Candor as a framework, we will look at practical ways you can bring fearless feedback to your team to encourage transparency while building trust",
+        "prerequisites": "",
+        "before": "Listen: Radical Candor Podcast Episodes 1-4, 7-8 and Read: http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/",
+        "bring": "Something to take notes with and a genuine desire to learn"
+      },
+      {
+        "room": "Room 328",
+        "time": "2:00 - 2:45PM",
+        "name": "Mo McKibbin",
+        "company": "Help Scout",
+        "title": "Building a Love-love relationship between Support + Product  ",
+        "description": "When support and product aren't in cahoots, you get two huge problems: Product doesn't know what customers want, and support doesn't know what changes are happening in the product or when, leading to communication mishaps with customers. <br/>Simply put: if product and support are not aligned, you have unhappy customers. This WS will share some ways we keep everyone in sync, and explore how to use support data to influence product roadmap, give systems you can put in place to keep support informed of product changes, fixes, features.",
+        "prerequisites": "Light programming knowledge",
+        "before": "Access to Google Drive",
+        "bring": "Paper and pen"
+      },
+      {
+        "room": "Room 328",
+        "time": "3:00 - 3:45PM",
+        "name": "Nikoletta Vecsei",
+        "company": "Transamerica",
+        "title": "Augment your corporate content for a better Customer Experience ",
+        "description": "Studies show that customer’s attention spans shrank from 12 seconds in 2008 to 8.5 seconds in 2012.  Your content now has to provide help and support in an 8 second timeframe to keep customers happy and your support queues - and costs - low. This presentation will give you 5 quick and easy ideas of how to augment your corporate content strategy with informal content that will keep your community fresh and your members happy.",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "Room 328",
+        "time": "4:00 - 4:45PM",
+        "name": "Diana Potter",
+        "company": "Qwilr",
+        "title": "Training through Teaching: How to create educational resources",
+        "description": "Sometimes you need to teach a member of your team or a customer how to do something. That's what this workshop is for! Learn how to create educational courses. From the topic definition, to the outline, to where to find your content and how to deliver it. We'll cover it all.",
+        "prerequisites": "",
+        "before": "Attendees should be thinking about an education course that they want to build. Who would it be for? What would the topic be? Come with this information or just have it mentally back of mind. ",
+        "bring": "Pen & paper. Or laptops "
+      }
+    ]
+  },
+  "room329": {
+    "talks": [],
+    "workshops": [
+      {
+        "room": "Room 329",
+        "time": "9:00 - 9:45AM",
+        "name": "Katharine McCarthy",
+        "company": "ipsy",
+        "title": "Check Your Tone and Sound Profesh to Def",
+        "description": "Develop a tone guide to create a unified voice your customers will recognize, cure your team's identity crisis, and avoid sounding like a robot (unless that’s what you’re going for).<br/>After you've figured out \"what\" to say to your customers, you have to decide \"how\" to say it. Do you want to sound friendly or formal, snarky or sincere, dorky or debonair? The tone or attitude you communicate in between the lines is just as important as what you write in black and white, and it can make the difference between a successful, cohesive customer experience and a disjointed, disappointing one. Defining and unifying your voice is even more important when the \"you\" amounts to several or many people in one support team, all speaking from the same umbrella identity. This workshop will help you learn how to 1) define your support voice, 2) develop a guide, and 3) reinforce it across multiple speakers. Your support messaging will become more profesh, recognizable, and more \"you\" as a result!  ",
+        "prerequisites": "",
+        "before": "",
+        "bring": "Pen, paper"
+      },
+      {
+        "room": "Room 329",
+        "time": "11:00 - 11:45AM",
+        "name": "Sonya Green",
+        "company": "resin.io",
+        "title": "Don't hold open the back door -- keeping hackers from getting your users' information ",
+        "description": "Have you heard of social engineering? It's a hacker's best way to crack a company's data and your users' accounts – and support agents are the first line of defense. It doesn't matter how secure your company's code is, if a support agent gives the right information to the wrong person. You'll learn to more confidently assess the risk of sharing account information and communicate effectively with customers. (You do not need to know how to code to thwart injustice.) ",
+        "prerequisites": "",
+        "before": "",
+        "bring": ""
+      },
+      {
+        "room": "Room 329",
+        "time": "10:00 - 10:45AM",
+        "name": "Kelly O'Brien",
+        "company": "Kayako",
+        "title": "World-building for better self-service",
+        "description": "Your self-service lives or dies on whether your customers engage with your content. Leave them no choice by illustrating your docs with clear, relatable customer scenarios. By fabricating a small cast of fictional customers to star in your user docs, you can deliver far more powerful self-service experiences.  This workshop will guide you, hands-on, through the process of developing fictional customers and the world they inhabit. We'll also look at specific examples of how to use these personas to make your support docs more engaging, more informative, and ultimately more successful.",
+        "prerequisites": "",
+        "before": "Come with two things:<br/>- a rough idea of their core/ideal customer persona to build from<br/>- a feature or task that their customers frequently come to support for help with",
+        "bring": "Imagination"
+      },
+      {
+        "room": "Room 329",
+        "time": "3:00 - 3:45PM",
+        "name": "Jacqueline Jensen",
+        "company": "Piktochart",
+        "title": "Visual Communication: Transform boring information into a visual masterpiece (no design experience necessary!)",
+        "description": "This session is packed with real-world examples and resources to help you level up your visual communication skills and put the power of design to work for you.<br/>In this session, you will learn:<br/>- Why infographics are important as a communication channel<br/>- Tips and tricks you’ll need to create your first (or hundredth) infographic<br/>- Examples of beautifully designed infographics to spark inspiration<br/>Our hands-on project will be to try out creating an infographic that helps you communicate information to your customers, team, or entire company.",
+        "prerequisites": "",
+        "before": "",
+        "bring": "creativity!"
+      },
+      {
+        "room": "Room 329",
+        "time": "4:00 - 4:45PM",
+        "name": "Sarah Betts",
+        "company": "Olark",
+        "title": "Villians, Trolls, and Grumps: Surviving the worst of Support",
+        "description": "Being on frontline support can feel like being on the battlefront at times. Learn to recognize the tough customers and be prepared to handle them with poise in this workshop. ",
+        "prerequisites": "",
+        "before": "Be prepared with some examples of difficult support interactions to share can be helpful",
+        "bring": ""
+      }
+    ]
+  }
+}
