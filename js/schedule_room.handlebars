@@ -1,0 +1,41 @@
+{{#schedule}}
+    {{# if talks}}
+        <tr><td colspan="2" class="session-type">Talks</td></tr>
+        {{#each talks}}
+            <tr>
+                <td>
+                    <div class="schedule-time">{{time}}</div>
+                    <div class="session-presenter"> {{name}}</div>
+                    <div class="session-company"> {{company}}</div>
+                </td>
+                <td>
+                    <div class="session-title">{{title}}</div>
+                </td>
+            </tr>
+        {{/each}}
+    {{/if}}
+    {{# if workshops}}
+        <tr><td colspan="2" class="session-type">Workshops</td></tr>
+        {{#each workshops}}
+            <tr>
+                <td>
+                    <div class="session-time">{{time}}</div>
+                    <div class="session-presenter"> {{name}}</div>
+                    <div class="session-company"> {{company}}</div>
+                </td>
+                <td>
+                    <div class="session-title">{{title}}</div>
+                    {{#if prerequisites}}
+                        <div><b>Prerequisites:</b> {{{prerequisites}}}</div>
+                    {{/if}}
+                    {{#if before }}
+                        <div><b>Before:</b> {{{before}}}</div>
+                    {{/if}}
+                    {{#if bring}}
+                        <div><b>Bring: </b> {{{bring}}}</div><br/>
+                    {{/if}}
+                </td>
+            </tr>
+        {{/each}}
+    {{/if}}
+{{/schedule}}
