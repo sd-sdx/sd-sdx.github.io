@@ -40,7 +40,7 @@
 }
 
 .title {
-    color: #f19333;
+    color: #ff9900;
 }
 
 .flex-item-speakers {
@@ -60,7 +60,7 @@
 }
 
 .session-table .session-type {
-    background-color: #f19333;
+    background-color: #ff9900;
     color: #ffffff;
     font-weight: bold;
     text-align: center;
@@ -211,7 +211,7 @@
 }
 
 .description-heading {
-    color: #f19333;
+    color: #ff9900;
     margin: 50px 0;
 }
 
@@ -226,7 +226,7 @@
 }
 
 .hotel-subheading {
-    color: #f19333;
+    color: #ff9900;
 }
 
 .map-content {
@@ -236,7 +236,7 @@
 }
 
 .map-subheading {
-    color: #f19333;
+    color: #ff9900;
     text-transform: uppercase;
     margin: 35px;
 }
@@ -247,7 +247,7 @@
 }
 
 .partners-subheading {
-    color: #f19333;
+    color: #ff9900;
     /*margin: -50px 50px 20px;*/
 }
 
@@ -268,7 +268,7 @@
 }
 
 .session-title {
-    color: #f19333;
+    color: #ff9900;
     font-weight: bold;
     padding-bottom: 5px;
 }

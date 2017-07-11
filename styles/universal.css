@@ -43,7 +43,7 @@ td {
 }
 
 li {
-    color: #f19333;
+    color: #ff9900;
     font-size: 20px;
 }
 
@@ -65,7 +65,7 @@ h3 {
     font-size: 32.5px;
     text-transform: uppercase;
     text-align: center;
-    color: #f19333;
+    color: #ff9900;
     margin: 0 0 20px 0;
 }
 
@@ -88,7 +88,7 @@ h6 {
 }
 
 .btn {
-    background-color: #f19333;
+    background-color: #ff9900;
     border: none;
     -moz-border-radius: 3;
     border-radius: 3;
@@ -101,7 +101,7 @@ h6 {
 
 .b-styling {
     font-weight: bold;
-    color: #f19333;
+    color: #ff9900;
     font-style: oblique;
     margin-bottom: 50px;
 }
@@ -159,7 +159,7 @@ div.tab-menu div.list-group > a {
 
 div.tab-menu div.list-group > a .glyphicon,
 div.tab-menu div.list-group > a .fa {
-    color: #f19333;
+    color:#ff9900;
 }
 
 div.tab-menu div.list-group > a:first-child {
@@ -175,8 +175,8 @@ div.tab-menu div.list-group > a:last-child {
 div.tab-menu div.list-group > a.active,
 div.tab-menu div.list-group > a.active .glyphicon,
 div.tab-menu div.list-group > a.active .fa {
-    background-color: #f19333;
-    border-color: #f19333;
+    background-color: #ff9900;
+    border-color: #ff9900;
     color: #ffffff;
 }
 
@@ -189,7 +189,7 @@ div.tab-menu div.list-group > a.active:after {
     border-left: 0;
     border-bottom: 13px solid transparent;
     border-top: 13px solid transparent;
-    border-left: 10px solid #f19333;
+    border-left: 10px solid #ff9900;
 }
 
 div.tab-content {
