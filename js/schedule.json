@@ -261,7 +261,7 @@
         "company": "Zapier",
         "title": "Supercharge your support toolset and get the most out of your apps    ",
         "description": " bet your support team uses a lot of tools and apps. Maybe there's one you *love* but it doesn't quite work exactly the way you want. No worries! In this workshop, we'll show you the tools you can use to supercharge your apps and make them do what you want... even if you've never written a single line of code.",
-        "prerequisites": "",
+        "prerequisites": "Unless you’re an admin for a Slack team already, sign up for a new Slack team account (https://slack.com/create)",
         "before": "Install Postman (https://www.getpostman.com/)<br/>sign up for Zapier (https://zapier.com/)<br/>(optional) read \"An Introduction to APIs \"(https://zapier.com/learn/apis/) ",
         "bring": "Computer"
       },
