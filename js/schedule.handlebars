@@ -32,9 +32,11 @@
                     <div><b>Before this workshop, please:</b> {{{before}}}</div>
                 {{/if}}
                 {{#if bring}}
-                    <div><b>Please bring to the workshop: </b> {{{bring}}}</div><br/>
+                    <div><b>Please bring to the workshop: </b> {{{bring}}}</div>
                 {{/if}}
-
+                {{#if slack}}
+                    <div><b>Slack channel: </b> {{{slack}}}</div><br/>
+                {{/if}}
                 <div>{{{description}}}</div>
             </td>
     </tr>

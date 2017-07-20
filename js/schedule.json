@@ -159,7 +159,8 @@
         "description": "One of the keys to leadership is clear communication. During this workshop, we'll learn how to make a \"Prove It\", a presentation model for clearly presenting data to influence the direction of support or the entire company. Attendees will walk away with a template and a full demo Prove It (of their own making) that they can use as a foundation for future Prove Its within their own company.   ",
         "prerequisites": "Basic experience with Google Sheets/Excel & Google Presentations/PowerPoint is helpful, but not required. ",
         "before": "Access to Google Drive",
-        "bring": "Computer"
+        "bring": "Computer",
+        "slack": "#sdx-prove-it"
       },
       {
         "room": "Room 329",
@@ -192,7 +193,8 @@
         "description": "Live chat is fast, and that's why customers love it. Due to its fast pace, however, live chat can become stressful to the support professional on the other side of the chat bubble. Two stressors for live chat agents are 1) handling simultaneous chats and 2) ending chats. In this workshop, we will cover tactics for setting expectations and controlling chat conversations so that an agent can deliver that fast resolution to multiple customers while keeping cool and calm.",
         "prerequisites": "",
         "before": "Attendees need to install Slack on their laptops (which they will bring to the workshop) and join the SupportDriven Slack.",
-        "bring": "Laptop"
+        "bring": "Laptop",
+        "slack": "#sdx-chat-control"
       },
       {
         "room": "Room 298",
@@ -203,7 +205,8 @@
         "description": "Learn how to improve the effectiveness of your external help center by analyzing sample internal support data and creating a plan to improve your help center based on the results.",
         "prerequisites": "",
         "before": "",
-        "bring": ""
+        "bring": "",
+        "slack": "#sdx-helpcenter"
       }
     ]
   },
@@ -252,7 +255,8 @@
         "description": "Have you ever wondered, \"Gosh. How do customers know they are talking with an awesome human and not a really nice robot?\" Well, you're in for a treat -- video is here! Personalized video is one way to help make your support more human and surprisingly delightful, whether that's a video explaining a concept or a video to welcome a new user. By the end of this workshop, you'll have created a friendly, personalized video that's ready to be sent off to one of your customers!",
         "prerequisites": "",
         "before": "1) Identify 1 to 3 users/customers who you'd want to send a video to (some ideas: a brand new customer, a long-time customer, someone who recently wrote in with a support question).<br/>2) Send Sarah-Mei your answer to this question \"What has prevented you from making & sending more personalized video to your customers?\" ",
-        "bring": "REQUIRED: Something to record a video with! Laptop with working webcam Laptop should include some type of video recording software. If you want a screencast, you'll want to make sure you have a tool that does that (Quicktime Player has this ability). If you don't have that, then a smartphone camera works great, too!<br/>OPTIONAL: Attendees may want to have a video sharing software, for ease of sharing the video with a user. The outcome of this workship will be the creation of a video, so attendees may want to think ahead to how they will share it. Some video sharing solutions: Wistia, Youtube, Vimeo, Vidyard."
+        "bring": "REQUIRED: Something to record a video with! Laptop with working webcam Laptop should include some type of video recording software. If you want a screencast, you'll want to make sure you have a tool that does that (Quicktime Player has this ability). If you don't have that, then a smartphone camera works great, too!<br/>OPTIONAL: Attendees may want to have a video sharing software, for ease of sharing the video with a user. The outcome of this workship will be the creation of a video, so attendees may want to think ahead to how they will share it. Some video sharing solutions: Wistia, Youtube, Vimeo, Vidyard.",
+        "slack": "#sdx-happy-videos"
       },
       {
         "room": "Room 328",
@@ -263,7 +267,8 @@
         "description": " bet your support team uses a lot of tools and apps. Maybe there's one you *love* but it doesn't quite work exactly the way you want. No worries! In this workshop, we'll show you the tools you can use to supercharge your apps and make them do what you want... even if you've never written a single line of code.",
         "prerequisites": "Unless you’re an admin for a Slack team already, sign up for a new Slack team account (https://slack.com/create)",
         "before": "Install Postman (https://www.getpostman.com/)<br/>sign up for Zapier (https://zapier.com/)<br/>(optional) read \"An Introduction to APIs \"(https://zapier.com/learn/apis/) ",
-        "bring": "Computer"
+        "bring": "Computer",
+        "slack": "#sdx-supercharge-tools"
       },
       {
         "room": "Room 329",
@@ -285,7 +290,8 @@
         "description": "This session will attempt to showcase a couple of simple ways to calculate ROI for Social Customer Care initiatives and Support communities. There are so many calculators out there that are overly complicated, or you might not have access to the right data to run them. The techniques you learn in this session will help convince your stakeholders and executive sponsors alike. ",
         "prerequisites": "",
         "before": "If you manage or contribute to a support community (or want to do so) and have access to some quantitative data from your support channel. Look up maybe some data for the last 90 days on how many cases were opened on community vs your traditional channels and bring those numbers with you.",
-        "bring": "Paper and pen"
+        "bring": "Paper and pen",
+        "slack": "#sdx-community-roi"
       },
       {
         "room": "Room 296",
@@ -348,7 +354,8 @@
         "description": "These days a large portion of products offer APIs for their customers to integrate with but not everyone in support is familiar with how to make API calls, let alone support their customers using them. The purpose of this workshop is to increase technical skills and provide some hands on experience with consuming an API. We will be using Postman, an API client, for testing and troubleshooting REST API calls without writing a line of code.",
         "prerequisites": "",
         "before": "Before this workshop, please: Attendees should download and Install Postman (https://www.getpostman.com/)  ",
-        "bring": "Computer"
+        "bring": "Computer",
+        "slack": "#sdx-api-support"
       },
       {
         "room": "Room 328",
@@ -381,7 +388,8 @@
         "description": "We hear about it all the time. AWS this, AWS that, but what IS this AWS thing all about? In this workshop we will go over what Amazon Web Services are, why it is so common place in todays tech world, and how you or your customers might be using it. But most importantly, we will use it ourselves by exploring some of the common services, spinning up our own cloud machines, and hosting our own simple website.",
         "prerequisites": "",
         "before": "Sign up for an Amazon AWS account and create their private key for ssh access. (this involves adding a credit card, but we will be using only \"free tier\" could machines, so no one will be charged). They also will need a terminal application on their laptop.",
-        "bring": "Laptop"
+        "bring": "Laptop",
+        "slack": "#sdx-aws-for-beginners"
       },
       {
         "room": "Room 296",
@@ -485,7 +493,8 @@
           "description": "APIs and HTTP and JSONP, oh my! Before you can harness the power of APIs to improve your support team analytics, it can be helpful to learn how the internet works in general. From requests and responses to HTTP status codes and authentication, these tools and principles will prepare you for working with APIs directly. Zero experience necessary -- this workshop is a prerequisite for Part 2, but if you understand these concepts already then you can go right to Part 2.",
           "prerequisites": "",
           "before": "Bring a computer with Google Chrome installed.",
-          "bring": "Computer"
+          "bring": "Computer",
+          "slack": "#sdx-wtf-internet-apis"
         },
         {
           "room": "Room 298",
@@ -556,7 +565,8 @@
           "description": "Studies show that customer’s attention spans shrank from 12 seconds in 2008 to 8.5 seconds in 2012.  Your content now has to provide help and support in an 8 second timeframe to keep customers happy and your support queues - and costs - low. This presentation will give you 5 quick and easy ideas of how to augment your corporate content strategy with informal content that will keep your community fresh and your members happy.",
           "prerequisites": "",
           "before": "",
-          "bring": ""
+          "bring": "",
+          "slack": "#sdx-content-strategy"
         },
         {
           "room": "Room 329",
@@ -567,7 +577,8 @@
           "description": "This session is packed with real-world examples and resources to help you level up your visual communication skills and put the power of design to work for you.<br/>In this session, you will learn:<br/>- Why infographics are important as a communication channel<br/>- Tips and tricks you’ll need to create your first (or hundredth) infographic<br/>- Examples of beautifully designed infographics to spark inspiration<br/>Our hands-on project will be to try out creating an infographic that helps you communicate information to your customers, team, or entire company.",
           "prerequisites": "",
           "before": "",
-          "bring": "creativity!"
+          "bring": "creativity!",
+          "slack": "#sdx-visuals"
         },
         {
           "room": "Room 294",
@@ -578,7 +589,8 @@
           "description": "In this workshop we will learn to graph metrics and use the results to help create a coverage schedule for local support staff, remote support staff and predict the best time for support team expansion. We will see how the data can tell us when to stagger staff hours, increase day-to-day coverage and alert when the customer demands are highest.",
           "prerequisites": "A keen interest in learning how to use data, or desire to learn how to organize data",
           "before": "Be ready to talk about metrics they already track or metrics they want to track. Tools you already use. NOTE: Can start up a Klipfolio trial and import metrics ahead of time. ",
-          "bring": "Laptop, visualization tools already use, Klipfolio account if interested in working along, ideas"
+          "bring": "Laptop, visualization tools already use, Klipfolio account if interested in working along, ideas",
+          "slack": "#sdx-metrics-workshop"
         },
         {
           "room": "Room 296",
@@ -589,7 +601,8 @@
           "description": "NOTE: You do NOT need to attend Part 1 to attend this workshop, however you shuld be comfortable with the concepts of the internet: requests, responses, and HTTP.<br/>How can you get more customized insights from your help desk than the stock reporting tools provide? Use the API! This workshop will show you how to use the Help Scout API to demonstrate the power of using APIs to gain more insights into your support analytics. We will be writing a little bit of code, but if you're comfortable with the aforementioned concepts, the workshop should be followable",
           "prerequisites": "Part 1 or a basic understanding of requests, responses, and HTTP.",
           "before": "Bring a computer with Google Chrome installed, a text editor (Sublime Text or Atom ideally) installed, and Postman installed.",
-          "bring": "Computer"
+          "bring": "Computer",
+          "slack": "#sdx-wtf-internet-apis"
         },
         {
           "room": "Room 298",
@@ -633,7 +646,8 @@
           "description": "We'll cover step-by-step what's needed to create a Slackbot of your own. This will be a more technical talk about what's possible, how to get started with their APIs, how to get data from other places, and then how to bring it all together.",
           "prerequisites": "We'll be talking about APIs and coding endpoints, the ability to use APIs and code a bit will make this talk more actionable for you.",
           "before": "Ensure you are a Slack admin, knowing how to host an API endpoint will help a lot",
-          "bring": "Laptop"
+          "bring": "Laptop",
+          "slack": "#sdx-slackbot-building"
         },
         {
           "room": "Room 328",
@@ -644,7 +658,8 @@
           "description": "Sometimes you need to teach a member of your team or a customer how to do something. That's what this workshop is for! Learn how to create educational courses. From the topic definition, to the outline, to where to find your content and how to deliver it. We'll cover it all.",
           "prerequisites": "",
           "before": "Attendees should be thinking about an education course that they want to build. Who would it be for? What would the topic be? Come with this information or just have it mentally back of mind. ",
-          "bring": "Pen & paper. Or laptops "
+          "bring": "Pen & paper. Or laptops ",
+          "slack": "#sdx-teaching"
         },
         {
           "room": "Room 329",
@@ -677,7 +692,8 @@
           "description": "Google Apps Script is a JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications. In this session you will be given a brief intro to the tool along with ways you can use it to automate processes and connect services within your Support organization. Using this tool, our team has built: Slack bots, ticket assignment scripts, ticket review bots, and much more. The possibilities are endless!",
           "prerequisites": "Light programming knowledge",
           "before": "Access to Google Drive",
-          "bring": "Computer"
+          "bring": "Computer",
+          "slack":"#sdx-apps-script"
         },
         {
           "room": "Room 298",
