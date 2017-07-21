@@ -140,7 +140,7 @@
     ],
     "workshops": [
       {
-        "room": "Room 323",
+        "room": "Room 333",
         "time": "9:00 - 9:45AM",
         "name": "Zach Bouzan-Kaloustian",
         "company": "DigitalOcean",
@@ -247,7 +247,7 @@
     ],
     "workshops": [
       {
-        "room": "Room 323",
+        "room": "Room 333",
         "time": "10:00 - 10:45AM",
         "name": "Sarah-Mei Estrada",
         "company": "Wistia",
@@ -279,7 +279,8 @@
         "description": "Your self-service lives or dies on whether your customers engage with your content. Leave them no choice by illustrating your docs with clear, relatable customer scenarios. By fabricating a small cast of fictional customers to star in your user docs, you can deliver far more powerful self-service experiences.  This workshop will guide you, hands-on, through the process of developing fictional customers and the world they inhabit. We'll also look at specific examples of how to use these personas to make your support docs more engaging, more informative, and ultimately more successful.",
         "prerequisites": "",
         "before": "Come with two things:<br/>- a rough idea of their core/ideal customer persona to build from<br/>- a feature or task that their customers frequently come to support for help with",
-        "bring": "Imagination"
+        "bring": "Imagination",
+        "slack": "#sdx-worldbuilding"
       },
       {
         "room": "Room 294",
@@ -346,7 +347,7 @@
     ],
     "workshops": [
       {
-        "room": "Room 323",
+        "room": "Room 333",
         "time": "11:00 - 11:45AM",
         "name": "Patrick Graham",
         "company": "Wildbit",
@@ -377,7 +378,8 @@
         "description": "Have you heard of social engineering? It's a hacker's best way to crack a company's data and your users' accounts – and support agents are the first line of defense. It doesn't matter how secure your company's code is, if a support agent gives the right information to the wrong person. You'll learn to more confidently assess the risk of sharing account information and communicate effectively with customers. (You do not need to know how to code to thwart injustice.) ",
         "prerequisites": "",
         "before": "",
-        "bring": ""
+        "bring": "",
+        "slack": "sdx-security"
       },
       {
         "room": "Room 294",
@@ -452,7 +454,7 @@
       ],
       "workshops": [
         {
-          "room": "Room 323",
+          "room": "Room 333",
           "time": "2:00 - 2:45PM",
           "name": "Alexandria Shrader",
           "company": "Big Cartel",
@@ -546,7 +548,7 @@
       ],
       "workshops": [
         {
-          "room": "Room 323",
+          "room": "Room 333",
           "time": "3:00 - 3:45PM",
           "name": "Melissa Geyer",
           "company": "Seed",
@@ -554,7 +556,8 @@
           "description": "Interviewing should be a powerful tool, letting you build your team with the right people. So much money and time is wasted when you hire the wrong person. In this workshop you'll learn how to interview, uncover more about your candidates with your interviewing strategy and technique, and learn the skills for a more masterful inteview process that you can teach your team.",
           "prerequisites": "",
           "before": "",
-          "bring": ""
+          "bring": "",
+          "slack": "#sdx-interviewing"
         },
         {
           "room": "Room 328",
@@ -638,7 +641,7 @@
       ],
       "workshops": [
         {
-          "room": "Room 323",
+          "room": "Room 333",
           "time": "4:00 - 4:45PM",
           "name": "Shaun VanWeelden",
           "company": "Engagio",
