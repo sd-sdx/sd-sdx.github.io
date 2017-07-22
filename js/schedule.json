@@ -283,18 +283,6 @@
         "slack": "#sdx-worldbuilding"
       },
       {
-        "room": "Room 294",
-        "time": "10:00 - 10:45AM",
-        "name": "Nikoletta Vecsei",
-        "company": "Transamerica",
-        "title": "Demystify ROI calculations for your Support Community",
-        "description": "This session will attempt to showcase a couple of simple ways to calculate ROI for Social Customer Care initiatives and Support communities. There are so many calculators out there that are overly complicated, or you might not have access to the right data to run them. The techniques you learn in this session will help convince your stakeholders and executive sponsors alike. ",
-        "prerequisites": "",
-        "before": "If you manage or contribute to a support community (or want to do so) and have access to some quantitative data from your support channel. Look up maybe some data for the last 90 days on how many cases were opened on community vs your traditional channels and bring those numbers with you.",
-        "bring": "Paper and pen",
-        "slack": "#sdx-community-roi"
-      },
-      {
         "room": "Room 296",
         "time": "10:00 - 11:45AM",
         "name": "David Lemus and Sara Mesing",
@@ -382,18 +370,6 @@
         "slack": "sdx-security"
       },
       {
-        "room": "Room 294",
-        "time": "11:00 - 11:45AM",
-        "name": "Andrew Goetz",
-        "company": "MemSQL",
-        "title": "A glimpse into AWS",
-        "description": "We hear about it all the time. AWS this, AWS that, but what IS this AWS thing all about? In this workshop we will go over what Amazon Web Services are, why it is so common place in todays tech world, and how you or your customers might be using it. But most importantly, we will use it ourselves by exploring some of the common services, spinning up our own cloud machines, and hosting our own simple website.",
-        "prerequisites": "",
-        "before": "Sign up for an Amazon AWS account and create their private key for ssh access. (this involves adding a credit card, but we will be using only \"free tier\" could machines, so no one will be charged). They also will need a terminal application on their laptop.",
-        "bring": "Laptop",
-        "slack": "#sdx-aws-for-beginners"
-      },
-      {
         "room": "Room 296",
         "time": "10:00 - 11:45AM",
         "name": "David Lemus and Sara Mesing",
@@ -442,14 +418,6 @@
           "company": "Kayako",
           "title": "The Benefits of Understanding Your Customer: Reduce churn, nurture long-lasting relationships, and upsell value (not features) by understanding your customer’s point of view",
           "description": "Many organizations want to reduce churn and want their customers’ loyalty. Is this something which requires a rocket science study? No. We have dealt with so many customers think our product isn’t helpful for them anymore. However, after talking to them and understanding them, we can actually retain them once we know more about their workflow, their experiences and their expectations. Many times, support teams need to act like teachers and educate them on your product. Even further, by using the right upselling techniques, you can grow loyalty and increase revenue too. When it comes to it, customers just want effortless experiences, which is only possible when you make their journey as smooth as possible."
-        },
-        {
-          "room": "Room 327",
-          "time": "2:30 - 2:50PM",
-          "name": "Katelyn Hertel",
-          "company": "Fastly",
-          "title": "Keeping Support Sane! How to Make it as a Junior Support Engineer without Burning Out",
-          "description": "It's incredibly hard to make it as a Junior Support Engineer or someone just entering into the tech world. It can be overwhelming, daunting, and could lead to burnout quickly. That's what happened to me!<br/>In this talk, I'll walk through my story and what happened during my first job in NYC, how I burnt out quickly, and what I did to try to fix it. I'll discuss some of the self care tips I used and how they helped me adjust and ultimately love my job. We'll talk about how I learned to ask for advice, manage time better, speak up when something doesn't feel right, take care of myself better, and set goals, among others. Taking on a support role doesn't need to be overwhelming and scary and it does get better; it got better for me and hopefully my story can help you in your support journey!"
         }
       ],
       "workshops": [
@@ -548,18 +516,6 @@
       ],
       "workshops": [
         {
-          "room": "Room 333",
-          "time": "3:00 - 3:45PM",
-          "name": "Melissa Geyer",
-          "company": "Seed",
-          "title": "Intentional Interviewing",
-          "description": "Interviewing should be a powerful tool, letting you build your team with the right people. So much money and time is wasted when you hire the wrong person. In this workshop you'll learn how to interview, uncover more about your candidates with your interviewing strategy and technique, and learn the skills for a more masterful inteview process that you can teach your team.",
-          "prerequisites": "",
-          "before": "",
-          "bring": "",
-          "slack": "#sdx-interviewing"
-        },
-        {
           "room": "Room 328",
           "time": "3:00 - 3:45PM",
           "name": "Nikoletta Vecsei",
@@ -606,17 +562,6 @@
           "before": "Bring a computer with Google Chrome installed, a text editor (Sublime Text or Atom ideally) installed, and Postman installed.",
           "bring": "Computer",
           "slack": "#sdx-wtf-internet-apis"
-        },
-        {
-          "room": "Room 298",
-          "time": "3:00 - 3:45PM",
-          "name": "Mercer Smith-Looper",
-          "company": "Atlassian (Trello)",
-          "title": "Be the Boss: Own your Career and Get Where you Want to Go in the Unknowable Future",
-          "description": "During this workshop you will create a plan for your future goals and learn how to create attainable, digestible plans to accomplish even the most far-fetched of career or personal desires. Learn how to roll with the punches when things in life change, and how to maximize your potential to get to where you want to go.",
-          "prerequisites": "",
-          "before": "",
-          "bring": ""
         }
       ]
     },
